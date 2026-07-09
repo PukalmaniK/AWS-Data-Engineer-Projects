@@ -1,0 +1,7 @@
+customer_id,name,city,account_balance,status
+2,Bob Smith,Los Angeles,47500.00,active
+3,Carla Mendes,Chicago,15200.00,active
+7,Grace Patel,Austin,22000.00,active
+9,Isla Brown,Dallas,11500.00,active
+11,Priya Nair,Bengaluru,52000.00,active
+12,Carlos Rivera,São Paulo,31500.75,pending

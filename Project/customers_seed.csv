@@ -1,0 +1,11 @@
+customer_id,name,city,account_balance,status
+1,Alice Johnson,New York,75000.00,active
+2,Bob Smith,Los Angeles,43200.50,active
+3,Carla Mendes,Chicago,12800.00,pending
+4,David Lee,Houston,98100.75,active
+5,Emma Wilson,Phoenix,30450.00,inactive
+6,Frank Zhang,Philadelphia,62000.00,active
+7,Grace Patel,San Antonio,18750.25,pending
+8,Henry Moore,San Diego,54300.00,active
+9,Isla Brown,Dallas,9200.00,inactive
+10,James Taylor,San Jose,120500.50,active
