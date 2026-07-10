@@ -1,0 +1,7 @@
+{"employee_id": 1, "name": "Alice Johnson", "department": "engineering", "salary": 95000, "status": "Active", "hire_date": "2021-03-15"}
+{"employee_id": 2, "name": "bob smith", "department": "Sales", "salary": null, "status": "active", "hire_date": "2020-07-01"}
+{"employee_id": 3, "name": "  Carol White  ", "department": "HR", "salary": 72000, "status": "INACTIVE", "hire_date": "2019-11-20"}
+{"employee_id": 4, "name": "David Lee", "department": "Finance", "salary": 88000, "status": "active", "hire_date": "invalid-date"}
+{"employee_id": 5, "name": "Eve Martinez", "department": "engineering", "salary": 105000, "status": "Active", "hire_date": "2022-01-10"}
+{"employee_id": 2, "name": "bob smith", "department": "Sales", "salary": null, "status": "active", "hire_date": "2020-07-01"}
+{"employee_id": 6, "name": null, "department": "Legal", "salary": 67000, "status": "active", "hire_date": "2018-05-30"}
