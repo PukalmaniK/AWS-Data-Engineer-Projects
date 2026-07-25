@@ -1,0 +1,1001 @@
+transaction_id,customer_id,product_category,amount,quantity,payment_method,region,status,date
+TXN-20260511-00737,CUST9144,Clothing,1522.67,5,bank_transfer,Central,pending,2026-05-11
+,CUST3425,Health,1735.06,8,debit_card,South,completed,2026-05-11
+TXN-20260511-00083,CUST6596,Home & Garden,293.58,2,credit_card,East,pending,2026-05-11
+,CUST4159,Books,2493.68,9,credit_card,North,processing,2026-05-11
+TXN-20260511-00298,CUST1700,Toys,2033.87,4,crypto,North,completed,2026-05-11
+TXN-20260511-00319,CUST3409,Automotive,396.12,9,paypal,East,completed,2026-05-11
+TXN-20260511-00435,CUST4550,Sports,1307.82,2,crypto,Central,refunded,2026-05-11
+TXN-20260511-00773,CUST3763,Automotive,984.96,5,crypto,West,processing,2026-05-11
+TXN-20260511-00290,CUST6320,Health,48.94,8,crypto,South,refunded,2026-05-11
+TXN-20260511-00095,CUST4775,Groceries,948.16,10,debit_card,Central,completed,2026-05-11
+TXN-20260511-00230,CUST2899,Toys,1538.16,6,debit_card,South,completed,2026-05-11
+TXN-20260511-00937,CUST6221,Books,1255.0,5,paypal,West,processing,2026-05-11
+TXN-20260511-00165,CUST5397,Clothing,1108.84,5,crypto,North,processing,2026-05-11
+TXN-20260511-00885,CUST1068,Books,1291.43,2,debit_card,West,refunded,2026-05-11
+TXN-20260511-00009,CUST3616,Health,2224.11,7,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00688,CUST9881,Clothing,1179.78,5,crypto,East,pending,2026-05-11
+TXN-20260511-00072,CUST2730,Beauty,2096.67,3,paypal,East,processing,2026-05-11
+TXN-20260511-00001,CUST1949,Beauty,1515.82,4,debit_card,South,completed,2026-05-11
+TXN-20260511-00514,CUST8421,Groceries,1648.7,9,crypto,West,pending,2026-05-11
+TXN-20260511-00785,CUST6128,Beauty,1957.82,9,paypal,South,refunded,2026-05-11
+TXN-20260511-00620,CUST2419,Automotive,1530.79,1,crypto,Central,processing,2026-05-11
+TXN-20260511-00963,CUST7470,Automotive,1919.0,4,credit_card,North,pending,2026-05-11
+TXN-20260511-00680,CUST8911,Groceries,416.07,2,bank_transfer,East,completed,2026-05-11
+,CUST3722,Clothing,2471.16,7,debit_card,North,completed,2026-05-11
+TXN-20260511-00395,CUST9363,Books,1603.21,2,crypto,Central,pending,2026-05-11
+TXN-20260511-00523,CUST6314,Automotive,234.68,9,debit_card,North,refunded,2026-05-11
+TXN-20260511-00077,CUST1658,Health,,7,credit_card,North,pending,2026-05-11
+TXN-20260511-00880,CUST6101,Home & Garden,104.34,2,debit_card,South,completed,2026-05-11
+TXN-20260511-00468,CUST9247,Sports,1711.13,9,debit_card,South,pending,2026-05-11
+TXN-20260511-00156,CUST5208,Beauty,1032.4,7,debit_card,North,refunded,2026-05-11
+TXN-20260511-00624,CUST8660,Automotive,1733.51,2,paypal,West,processing,2026-05-11
+TXN-20260511-00080,CUST1027,Books,293.7,4,paypal,North,pending,2026-05-11
+TXN-20260511-00358,CUST7472,Home & Garden,770.58,9,debit_card,Central,pending,2026-05-11
+TXN-20260511-00254,CUST2765,Toys,1353.93,1,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00034,CUST4080,Clothing,2106.3,6,crypto,East,refunded,2026-05-11
+TXN-20260511-00149,CUST8010,Books,221.47,1,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00007,CUST5912,Toys,1036.53,7,debit_card,East,completed,2026-05-11
+TXN-20260511-00564,CUST9766,Clothing,142.63,4,credit_card,Central,completed,2026-05-11
+,CUST3484,Automotive,616.92,10,paypal,South,pending,2026-05-11
+TXN-20260511-00008,CUST9886,Beauty,1687.05,7,crypto,West,refunded,2026-05-11
+,CUST2938,Beauty,1504.01,10,paypal,Central,pending,2026-05-11
+TXN-20260511-00119,CUST7696,Groceries,1594.56,3,crypto,South,refunded,2026-05-11
+,CUST6742,Health,1194.47,10,crypto,East,processing,2026-05-11
+TXN-20260511-00625,CUST1546,Automotive,1383.99,3,paypal,West,processing,2026-05-11
+TXN-20260511-00950,CUST3080,Electronics,1251.81,1,bank_transfer,Central,refunded,2026-05-11
+,CUST2488,Automotive,1427.19,10,crypto,Central,processing,2026-05-11
+TXN-20260511-00759,CUST9149,Sports,2401.57,10,credit_card,South,refunded,2026-05-11
+TXN-20260511-00659,CUST7991,Home & Garden,341.53,2,paypal,South,completed,2026-05-11
+TXN-20260511-00105,CUST5437,Clothing,1200.87,10,paypal,South,completed,2026-05-11
+TXN-20260511-00194,CUST2248,Clothing,,8,paypal,East,processing,2026-05-11
+TXN-20260511-00442,CUST6384,Beauty,483.36,10,paypal,West,processing,2026-05-11
+TXN-20260511-00552,CUST9214,Clothing,1489.25,1,crypto,East,processing,2026-05-11
+TXN-20260511-00582,CUST3142,Clothing,1538.9,5,bank_transfer,East,processing,2026-05-11
+,CUST6855,Electronics,294.27,9,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00383,CUST9647,Health,1307.53,6,debit_card,North,refunded,2026-05-11
+TXN-20260511-00057,CUST3930,Groceries,726.73,4,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00002,CUST8367,Home & Garden,2060.47,10,debit_card,South,pending,2026-05-11
+TXN-20260511-00567,CUST1210,Home & Garden,839.82,1,debit_card,West,refunded,2026-05-11
+TXN-20260511-00051,CUST6640,Groceries,830.91,2,crypto,West,processing,2026-05-11
+TXN-20260511-00893,CUST5339,Toys,367.1,4,paypal,South,pending,2026-05-11
+TXN-20260511-00636,CUST6449,Sports,297.49,5,credit_card,Central,completed,2026-05-11
+TXN-20260511-00215,CUST3480,Clothing,663.79,5,crypto,South,completed,2026-05-11
+TXN-20260511-00294,CUST9434,Home & Garden,2366.78,6,paypal,Central,refunded,2026-05-11
+TXN-20260511-00010,CUST1370,Clothing,1779.7,3,crypto,Central,processing,2026-05-11
+TXN-20260511-00541,CUST4131,Health,,5,paypal,South,pending,2026-05-11
+TXN-20260511-00854,CUST4707,Health,2000.3,10,credit_card,South,completed,2026-05-11
+,CUST3353,Books,2272.32,1,debit_card,Central,completed,2026-05-11
+TXN-20260511-00922,CUST4625,Beauty,1422.6,7,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00668,CUST7367,Clothing,436.47,4,crypto,East,refunded,2026-05-11
+TXN-20260511-00826,CUST4246,Sports,2039.88,4,paypal,East,completed,2026-05-11
+TXN-20260511-00724,CUST5837,Sports,557.14,4,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00418,CUST9410,Groceries,432.26,1,debit_card,East,processing,2026-05-11
+TXN-20260511-00309,CUST4535,Electronics,656.02,4,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00654,CUST2178,Clothing,175.66,8,debit_card,Central,pending,2026-05-11
+TXN-20260511-00786,CUST8157,Health,1138.76,9,credit_card,West,processing,2026-05-11
+,CUST1270,Electronics,568.06,9,debit_card,North,refunded,2026-05-11
+TXN-20260511-00478,CUST8543,Groceries,1356.57,9,crypto,North,refunded,2026-05-11
+,CUST2509,Automotive,1157.77,2,crypto,East,processing,2026-05-11
+TXN-20260511-00002,CUST5140,Books,187.38,2,paypal,East,pending,2026-05-11
+TXN-20260511-00113,CUST6186,Toys,278.81,6,paypal,North,refunded,2026-05-11
+TXN-20260511-00467,CUST5244,Clothing,1745.3,2,crypto,North,completed,2026-05-11
+TXN-20260511-00087,CUST4510,Home & Garden,1725.31,5,debit_card,West,completed,2026-05-11
+TXN-20260511-00585,CUST3497,Books,1139.49,6,debit_card,East,processing,2026-05-11
+TXN-20260511-00752,CUST2335,Electronics,370.25,8,paypal,West,refunded,2026-05-11
+TXN-20260511-00556,CUST7494,Health,1720.14,4,credit_card,South,completed,2026-05-11
+TXN-20260511-00960,CUST7331,Home & Garden,1302.75,6,credit_card,South,refunded,2026-05-11
+TXN-20260511-00517,CUST5846,Beauty,2346.08,7,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00494,CUST7171,Groceries,348.08,6,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00010,CUST2274,Home & Garden,2109.24,5,crypto,West,completed,2026-05-11
+TXN-20260511-00939,CUST2943,Automotive,55.54,5,credit_card,East,completed,2026-05-11
+TXN-20260511-00572,CUST2613,Toys,1389.31,3,paypal,East,refunded,2026-05-11
+TXN-20260511-00006,CUST4153,Toys,1811.85,1,debit_card,West,pending,2026-05-11
+TXN-20260511-00810,CUST5046,Beauty,543.99,3,debit_card,North,processing,2026-05-11
+TXN-20260511-00257,CUST4366,Health,1653.82,9,crypto,East,processing,2026-05-11
+TXN-20260511-00093,CUST4339,Health,1784.96,4,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00954,CUST4544,Beauty,159.95,3,bank_transfer,Central,processing,2026-05-11
+TXN-20260511-00333,CUST3442,Health,,8,crypto,West,processing,2026-05-11
+TXN-20260511-00481,CUST2953,Toys,2438.93,5,credit_card,Central,completed,2026-05-11
+TXN-20260511-00945,CUST6192,Beauty,1448.26,9,bank_transfer,West,processing,2026-05-11
+TXN-20260511-00575,CUST8015,Automotive,1175.26,7,crypto,North,completed,2026-05-11
+TXN-20260511-00006,CUST1481,Clothing,715.8,7,credit_card,Central,processing,2026-05-11
+,CUST2471,Groceries,1136.59,9,paypal,West,pending,2026-05-11
+TXN-20260511-00329,CUST9047,Electronics,1151.8,9,paypal,East,processing,2026-05-11
+TXN-20260511-00812,CUST9055,Electronics,950.73,8,credit_card,South,completed,2026-05-11
+TXN-20260511-00027,CUST1979,Sports,2452.43,5,paypal,South,completed,2026-05-11
+TXN-20260511-00091,CUST7948,Electronics,1004.99,7,crypto,West,refunded,2026-05-11
+TXN-20260511-00843,CUST4511,Automotive,335.01,7,debit_card,South,completed,2026-05-11
+TXN-20260511-00749,CUST4719,Electronics,30.32,2,crypto,South,completed,2026-05-11
+TXN-20260511-00120,CUST4847,Electronics,1685.69,2,credit_card,East,refunded,2026-05-11
+TXN-20260511-00006,CUST4900,Automotive,340.67,4,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00788,CUST7595,Groceries,1089.59,5,debit_card,Central,completed,2026-05-11
+TXN-20260511-00846,CUST8921,Sports,24.22,1,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00138,CUST5002,Beauty,814.6,4,crypto,North,completed,2026-05-11
+TXN-20260511-00185,CUST2582,Electronics,1350.46,9,crypto,South,refunded,2026-05-11
+TXN-20260511-00887,CUST5992,Home & Garden,605.08,9,crypto,North,processing,2026-05-11
+TXN-20260511-00070,CUST9172,Health,1227.92,4,crypto,Central,processing,2026-05-11
+TXN-20260511-00640,CUST7747,Sports,2481.23,9,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00770,CUST5008,Electronics,615.27,8,crypto,West,completed,2026-05-11
+,CUST8958,Groceries,1142.23,1,credit_card,East,completed,2026-05-11
+TXN-20260511-00692,CUST9000,Groceries,1694.4,6,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00009,CUST2686,Electronics,1046.54,9,crypto,North,processing,2026-05-11
+TXN-20260511-00560,CUST3056,Electronics,1420.81,6,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00941,CUST5382,Groceries,,3,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00594,CUST4163,Health,1913.95,5,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00273,CUST1355,Home & Garden,1324.84,10,debit_card,Central,completed,2026-05-11
+,CUST7288,Health,497.6,2,crypto,West,refunded,2026-05-11
+TXN-20260511-00538,CUST2508,Home & Garden,1294.38,4,credit_card,North,processing,2026-05-11
+TXN-20260511-00049,CUST5770,Beauty,1552.58,8,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00245,CUST1244,Home & Garden,2093.02,3,paypal,North,refunded,2026-05-11
+TXN-20260511-00888,CUST1449,Home & Garden,843.24,6,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00933,CUST9911,Books,372.63,10,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00868,CUST8495,Health,2190.73,7,debit_card,Central,pending,2026-05-11
+TXN-20260511-01000,CUST3660,Health,1511.82,3,paypal,North,pending,2026-05-11
+TXN-20260511-00433,CUST5715,Home & Garden,1382.91,9,crypto,South,processing,2026-05-11
+TXN-20260511-00813,CUST8008,Groceries,2203.09,3,crypto,North,processing,2026-05-11
+,CUST7777,Home & Garden,864.34,9,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00781,CUST3089,Toys,,3,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00385,CUST1957,Health,,6,paypal,West,completed,2026-05-11
+TXN-20260511-00554,CUST6223,Clothing,1745.49,6,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00642,CUST1670,Clothing,1455.11,7,crypto,South,refunded,2026-05-11
+,CUST8518,Books,1314.44,2,credit_card,Central,pending,2026-05-11
+TXN-20260511-00008,CUST4349,Health,1286.33,7,credit_card,Central,pending,2026-05-11
+TXN-20260511-00491,CUST6979,Clothing,1709.89,5,debit_card,West,completed,2026-05-11
+TXN-20260511-00693,CUST6567,Sports,9.58,9,bank_transfer,Central,processing,2026-05-11
+TXN-20260511-00425,CUST2129,Automotive,872.73,3,credit_card,South,pending,2026-05-11
+,CUST3092,Beauty,486.92,7,debit_card,South,pending,2026-05-11
+TXN-20260511-00373,CUST1972,Clothing,826.26,2,paypal,South,pending,2026-05-11
+TXN-20260511-00579,CUST1521,Health,2037.82,3,crypto,North,pending,2026-05-11
+TXN-20260511-00365,CUST2065,Clothing,1631.17,5,credit_card,Central,pending,2026-05-11
+TXN-20260511-00634,CUST3090,Beauty,1565.09,5,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00213,CUST5999,Sports,2405.73,7,credit_card,East,pending,2026-05-11
+TXN-20260511-00988,CUST6058,Electronics,518.9,3,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00374,CUST7037,Automotive,1636.01,9,crypto,North,pending,2026-05-11
+TXN-20260511-00001,CUST5504,Beauty,767.7,10,debit_card,East,pending,2026-05-11
+TXN-20260511-00859,CUST7175,Clothing,131.99,3,crypto,West,refunded,2026-05-11
+TXN-20260511-00719,CUST4817,Sports,465.65,9,crypto,North,completed,2026-05-11
+TXN-20260511-00118,CUST6708,Electronics,,4,crypto,South,pending,2026-05-11
+TXN-20260511-00089,CUST4460,Sports,1763.43,3,crypto,West,completed,2026-05-11
+TXN-20260511-00170,CUST1652,Clothing,2467.81,2,credit_card,Central,processing,2026-05-11
+TXN-20260511-00276,CUST1023,Beauty,1394.59,9,paypal,Central,pending,2026-05-11
+TXN-20260511-00504,CUST7151,Electronics,1200.49,1,credit_card,Central,processing,2026-05-11
+TXN-20260511-00312,CUST3647,Toys,2396.51,3,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00562,CUST9937,Home & Garden,1659.79,9,credit_card,North,completed,2026-05-11
+TXN-20260511-00768,CUST4646,Groceries,1737.5,6,paypal,West,refunded,2026-05-11
+TXN-20260511-00500,CUST4131,Home & Garden,857.54,9,crypto,North,completed,2026-05-11
+TXN-20260511-00839,CUST1899,Books,1991.32,6,crypto,East,refunded,2026-05-11
+TXN-20260511-00832,CUST3002,Home & Garden,2104.44,9,debit_card,Central,processing,2026-05-11
+TXN-20260511-00340,CUST6293,Electronics,442.75,9,credit_card,West,completed,2026-05-11
+TXN-20260511-00853,CUST5401,Home & Garden,323.82,1,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00951,CUST9367,Toys,474.06,8,credit_card,East,pending,2026-05-11
+TXN-20260511-00762,CUST7750,Clothing,,10,bank_transfer,North,completed,2026-05-11
+,CUST6786,Books,1340.2,1,paypal,South,refunded,2026-05-11
+,CUST1670,Electronics,1473.42,8,debit_card,Central,pending,2026-05-11
+TXN-20260511-00443,CUST7661,Clothing,1362.67,4,paypal,East,refunded,2026-05-11
+TXN-20260511-00339,CUST5961,Beauty,1110.04,5,credit_card,Central,completed,2026-05-11
+TXN-20260511-00549,CUST9078,Books,378.25,9,debit_card,South,refunded,2026-05-11
+TXN-20260511-00258,CUST6292,Health,2484.91,9,crypto,North,completed,2026-05-11
+TXN-20260511-00381,CUST9667,Health,1969.77,6,credit_card,South,completed,2026-05-11
+TXN-20260511-00633,CUST7214,Books,8.32,10,paypal,Central,refunded,2026-05-11
+TXN-20260511-00304,CUST2694,Beauty,1620.48,4,credit_card,South,completed,2026-05-11
+TXN-20260511-00924,CUST2752,Groceries,,10,debit_card,South,refunded,2026-05-11
+TXN-20260511-00010,CUST4127,Clothing,871.73,2,crypto,North,refunded,2026-05-11
+TXN-20260511-00886,CUST8806,Home & Garden,729.47,4,paypal,South,processing,2026-05-11
+TXN-20260511-00856,CUST2612,Health,1074.89,2,credit_card,East,processing,2026-05-11
+TXN-20260511-00010,CUST6367,Groceries,557.14,3,crypto,South,refunded,2026-05-11
+TXN-20260511-00153,CUST6263,Electronics,2012.89,9,paypal,North,completed,2026-05-11
+TXN-20260511-00344,CUST9848,Automotive,529.8,2,paypal,North,processing,2026-05-11
+TXN-20260511-00900,CUST8832,Clothing,621.39,6,crypto,West,pending,2026-05-11
+TXN-20260511-00175,CUST4962,Automotive,440.53,8,crypto,North,refunded,2026-05-11
+TXN-20260511-00009,CUST2091,Groceries,1809.52,8,crypto,East,pending,2026-05-11
+TXN-20260511-00830,CUST4608,Books,1860.09,5,bank_transfer,West,refunded,2026-05-11
+TXN-20260511-00347,CUST9565,Groceries,85.86,5,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00134,CUST8182,Health,2094.44,8,paypal,South,processing,2026-05-11
+TXN-20260511-00069,CUST6426,Clothing,575.96,8,credit_card,North,processing,2026-05-11
+TXN-20260511-00172,CUST3198,Books,452.7,5,debit_card,West,processing,2026-05-11
+TXN-20260511-00218,CUST2608,Electronics,260.16,4,paypal,West,processing,2026-05-11
+TXN-20260511-00666,CUST3580,Automotive,273.23,10,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00317,CUST6019,Home & Garden,338.27,6,paypal,Central,pending,2026-05-11
+TXN-20260511-00732,CUST6641,Clothing,194.12,2,credit_card,South,pending,2026-05-11
+TXN-20260511-00917,CUST9791,Home & Garden,236.65,6,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00729,CUST9144,Health,486.32,8,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00085,CUST5914,Toys,2021.51,4,credit_card,East,pending,2026-05-11
+TXN-20260511-00611,CUST4336,Automotive,2036.22,4,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00407,CUST4237,Toys,1075.3,4,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00927,CUST2832,Sports,100.03,7,crypto,West,processing,2026-05-11
+TXN-20260511-00819,CUST3535,Toys,,2,debit_card,East,pending,2026-05-11
+TXN-20260511-00844,CUST6228,Toys,1385.87,9,debit_card,West,completed,2026-05-11
+TXN-20260511-00353,CUST1690,Beauty,1480.81,9,crypto,East,refunded,2026-05-11
+TXN-20260511-00646,CUST1138,Sports,1826.39,7,crypto,East,pending,2026-05-11
+TXN-20260511-00150,CUST2357,Health,1038.24,5,credit_card,West,refunded,2026-05-11
+TXN-20260511-00850,CUST7481,Sports,2386.57,3,credit_card,South,refunded,2026-05-11
+TXN-20260511-00938,CUST5982,Home & Garden,567.97,7,paypal,West,completed,2026-05-11
+TXN-20260511-00004,CUST9394,Books,299.03,2,debit_card,West,completed,2026-05-11
+TXN-20260511-00705,CUST5664,Clothing,2363.95,10,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00706,CUST3828,Electronics,1335.55,3,paypal,East,refunded,2026-05-11
+,CUST9756,Automotive,1114.47,10,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00209,CUST2512,Books,1215.41,6,crypto,South,pending,2026-05-11
+TXN-20260511-00297,CUST8037,Clothing,1533.02,3,debit_card,Central,processing,2026-05-11
+TXN-20260511-00007,CUST4468,Sports,1114.79,3,crypto,South,processing,2026-05-11
+TXN-20260511-00677,CUST7260,Beauty,608.69,1,crypto,East,pending,2026-05-11
+TXN-20260511-00313,CUST2507,Electronics,1432.65,2,paypal,East,completed,2026-05-11
+,CUST3561,Beauty,440.56,5,debit_card,East,processing,2026-05-11
+TXN-20260511-00639,CUST2490,Beauty,2395.27,6,credit_card,East,processing,2026-05-11
+TXN-20260511-00501,CUST8708,Electronics,1368.6,3,crypto,West,completed,2026-05-11
+TXN-20260511-00747,CUST2879,Beauty,1177.27,8,crypto,Central,completed,2026-05-11
+TXN-20260511-00835,CUST5270,Health,1422.47,4,paypal,North,completed,2026-05-11
+TXN-20260511-00531,CUST3969,Electronics,2371.69,2,debit_card,Central,completed,2026-05-11
+TXN-20260511-00107,CUST1996,Sports,1303.93,6,paypal,North,completed,2026-05-11
+TXN-20260511-00311,CUST7042,Automotive,338.87,5,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00391,CUST5989,Beauty,859.77,10,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00350,CUST3096,Home & Garden,2337.68,2,paypal,North,refunded,2026-05-11
+TXN-20260511-00181,CUST3553,Toys,101.07,2,paypal,Central,completed,2026-05-11
+TXN-20260511-00392,CUST9066,Toys,697.03,6,credit_card,East,completed,2026-05-11
+TXN-20260511-00331,CUST5492,Books,1712.95,6,debit_card,Central,pending,2026-05-11
+TXN-20260511-00029,CUST4781,Sports,1735.39,9,debit_card,East,pending,2026-05-11
+TXN-20260511-00222,CUST9361,Electronics,2429.41,7,paypal,West,pending,2026-05-11
+,CUST2241,Beauty,558.31,8,paypal,West,completed,2026-05-11
+TXN-20260511-00406,CUST8427,Sports,239.9,4,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00808,CUST6617,Electronics,531.04,6,credit_card,East,pending,2026-05-11
+TXN-20260511-00878,CUST5014,Health,569.98,1,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00005,CUST7927,Groceries,567.86,2,paypal,West,pending,2026-05-11
+TXN-20260511-00571,CUST7144,Groceries,407.82,5,credit_card,West,processing,2026-05-11
+TXN-20260511-00837,CUST7339,Home & Garden,2124.28,4,credit_card,East,processing,2026-05-11
+TXN-20260511-00840,CUST5183,Home & Garden,1236.82,10,crypto,East,completed,2026-05-11
+TXN-20260511-00672,CUST9239,Groceries,1741.73,1,credit_card,East,pending,2026-05-11
+TXN-20260511-00608,CUST8383,Home & Garden,279.26,10,debit_card,South,processing,2026-05-11
+TXN-20260511-00735,CUST4764,Clothing,1757.25,1,debit_card,North,pending,2026-05-11
+TXN-20260511-00322,CUST4268,Health,864.95,6,paypal,Central,pending,2026-05-11
+TXN-20260511-00838,CUST3241,Health,1059.22,7,debit_card,South,refunded,2026-05-11
+TXN-20260511-00132,CUST3915,Clothing,167.39,4,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00127,CUST4105,Toys,1738.51,2,debit_card,West,completed,2026-05-11
+TXN-20260511-00208,CUST6059,Toys,2133.1,7,paypal,North,refunded,2026-05-11
+TXN-20260511-00017,CUST3201,Sports,1797.4,9,paypal,North,pending,2026-05-11
+TXN-20260511-00104,CUST9970,Automotive,1294.94,9,debit_card,South,completed,2026-05-11
+TXN-20260511-00667,CUST8048,Beauty,2258.87,1,credit_card,North,refunded,2026-05-11
+TXN-20260511-00191,CUST2402,Books,927.69,9,credit_card,East,processing,2026-05-11
+TXN-20260511-00947,CUST2990,Health,860.91,7,credit_card,North,completed,2026-05-11
+TXN-20260511-00656,CUST5890,Automotive,2275.45,8,crypto,West,processing,2026-05-11
+TXN-20260511-00349,CUST2899,Groceries,774.42,8,credit_card,East,refunded,2026-05-11
+TXN-20260511-00008,CUST6138,Beauty,1667.02,3,bank_transfer,South,completed,2026-05-11
+,CUST7677,Electronics,579.77,10,debit_card,Central,processing,2026-05-11
+TXN-20260511-00870,CUST8766,Home & Garden,756.98,1,credit_card,North,completed,2026-05-11
+TXN-20260511-00256,CUST7686,Clothing,451.62,1,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00484,CUST2750,Beauty,1952.92,5,crypto,North,refunded,2026-05-11
+TXN-20260511-00644,CUST5652,Sports,1009.74,1,crypto,South,refunded,2026-05-11
+TXN-20260511-00635,CUST4191,Home & Garden,1470.5,3,debit_card,South,refunded,2026-05-11
+TXN-20260511-00877,CUST7827,Groceries,1194.55,5,credit_card,West,processing,2026-05-11
+TXN-20260511-00282,CUST9497,Toys,2327.6,1,crypto,Central,refunded,2026-05-11
+TXN-20260511-00750,CUST1135,Health,543.77,5,debit_card,North,pending,2026-05-11
+TXN-20260511-00641,CUST6389,Books,164.51,3,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00439,CUST4102,Sports,1468.57,4,credit_card,West,completed,2026-05-11
+TXN-20260511-00984,CUST9176,Groceries,2023.73,2,crypto,South,refunded,2026-05-11
+TXN-20260511-00458,CUST9873,Beauty,2034.43,4,credit_card,West,completed,2026-05-11
+TXN-20260511-00239,CUST9491,Beauty,649.44,1,paypal,Central,processing,2026-05-11
+,CUST8747,Toys,1379.16,5,paypal,North,refunded,2026-05-11
+TXN-20260511-00384,CUST8424,Electronics,121.1,6,paypal,South,pending,2026-05-11
+TXN-20260511-00212,CUST4987,Automotive,1050.4,5,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00428,CUST6104,Home & Garden,457.75,7,debit_card,South,pending,2026-05-11
+TXN-20260511-00005,CUST5434,Home & Garden,818.94,4,debit_card,East,processing,2026-05-11
+TXN-20260511-00479,CUST3481,Health,1025.93,2,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00440,CUST3845,Electronics,2234.84,10,crypto,Central,processing,2026-05-11
+TXN-20260511-00112,CUST8269,Beauty,1732.35,3,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00510,CUST7746,Health,1464.91,4,paypal,South,refunded,2026-05-11
+TXN-20260511-00603,CUST9259,Electronics,2306.57,1,crypto,East,processing,2026-05-11
+TXN-20260511-00730,CUST9738,Electronics,539.31,2,paypal,East,completed,2026-05-11
+TXN-20260511-00168,CUST4550,Automotive,2080.69,1,crypto,East,pending,2026-05-11
+TXN-20260511-00527,CUST2200,Health,,9,paypal,Central,pending,2026-05-11
+TXN-20260511-00199,CUST8887,Clothing,904.37,3,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00700,CUST9585,Beauty,1099.48,2,crypto,West,refunded,2026-05-11
+TXN-20260511-00220,CUST3417,Clothing,329.45,3,debit_card,East,processing,2026-05-11
+TXN-20260511-00698,CUST3376,Books,2107.11,5,bank_transfer,Central,processing,2026-05-11
+TXN-20260511-00219,CUST4365,Automotive,134.12,3,paypal,West,refunded,2026-05-11
+TXN-20260511-00320,CUST2762,Electronics,1504.05,8,crypto,West,refunded,2026-05-11
+TXN-20260511-00966,CUST5113,Home & Garden,,10,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00618,CUST3620,Electronics,2380.4,4,crypto,South,processing,2026-05-11
+TXN-20260511-00007,CUST7243,Beauty,265.05,5,paypal,Central,completed,2026-05-11
+TXN-20260511-00825,CUST6736,Electronics,1967.14,7,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00621,CUST8089,Books,1451.66,10,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00670,CUST7963,Beauty,1742.39,4,debit_card,West,completed,2026-05-11
+TXN-20260511-00137,CUST5892,Clothing,1115.68,6,bank_transfer,North,processing,2026-05-11
+,CUST7357,Beauty,1087.31,7,crypto,West,pending,2026-05-11
+TXN-20260511-00360,CUST3418,Sports,52.3,5,crypto,North,processing,2026-05-11
+TXN-20260511-00269,CUST6210,Toys,2339.38,9,crypto,East,processing,2026-05-11
+TXN-20260511-00797,CUST5522,Beauty,1903.15,4,credit_card,West,processing,2026-05-11
+TXN-20260511-00248,CUST1764,Books,1324.61,4,debit_card,West,refunded,2026-05-11
+TXN-20260511-00327,CUST2017,Health,532.26,8,paypal,East,completed,2026-05-11
+TXN-20260511-00200,CUST4410,Toys,764.24,2,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00999,CUST3941,Groceries,2487.58,9,bank_transfer,West,processing,2026-05-11
+TXN-20260511-00632,CUST7276,Home & Garden,2396.52,7,paypal,West,processing,2026-05-11
+TXN-20260511-00997,CUST1302,Automotive,,2,debit_card,East,pending,2026-05-11
+,CUST5357,Groceries,294.56,2,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00710,CUST1472,Sports,1403.02,2,paypal,North,completed,2026-05-11
+,CUST8180,Health,2106.88,7,paypal,North,pending,2026-05-11
+TXN-20260511-00368,CUST1950,Health,2443.25,5,debit_card,South,processing,2026-05-11
+TXN-20260511-00804,CUST5638,Automotive,1674.75,1,credit_card,Central,processing,2026-05-11
+TXN-20260511-00210,CUST6188,Electronics,921.21,5,credit_card,West,pending,2026-05-11
+TXN-20260511-00053,CUST7176,Sports,50.13,1,debit_card,North,processing,2026-05-11
+TXN-20260511-00779,CUST7326,Home & Garden,2499.44,2,debit_card,West,completed,2026-05-11
+TXN-20260511-00708,CUST3482,Sports,1459.72,1,credit_card,Central,processing,2026-05-11
+TXN-20260511-00271,CUST1191,Clothing,753.04,8,debit_card,South,refunded,2026-05-11
+TXN-20260511-00405,CUST3136,Groceries,1660.98,2,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00408,CUST2030,Clothing,970.71,1,credit_card,North,refunded,2026-05-11
+TXN-20260511-00498,CUST6715,Toys,740.42,7,crypto,West,pending,2026-05-11
+,CUST9472,Beauty,1482.45,5,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00071,CUST9597,Health,633.59,3,credit_card,South,refunded,2026-05-11
+TXN-20260511-00214,CUST3511,Sports,485.14,4,crypto,South,refunded,2026-05-11
+TXN-20260511-00799,CUST5642,Home & Garden,1927.61,6,bank_transfer,West,refunded,2026-05-11
+TXN-20260511-00811,CUST7614,Home & Garden,578.31,5,crypto,Central,pending,2026-05-11
+TXN-20260511-00063,CUST9993,Beauty,1624.28,1,bank_transfer,East,processing,2026-05-11
+,CUST7995,Electronics,552.03,9,paypal,South,processing,2026-05-11
+TXN-20260511-00934,CUST6562,Electronics,1185.8,1,credit_card,South,pending,2026-05-11
+TXN-20260511-00883,CUST8363,Electronics,393.99,7,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00791,CUST3041,Clothing,,5,bank_transfer,West,refunded,2026-05-11
+TXN-20260511-00002,CUST1481,Clothing,610.26,8,crypto,North,refunded,2026-05-11
+TXN-20260511-00923,CUST7297,Electronics,1203.38,10,debit_card,North,processing,2026-05-11
+TXN-20260511-00476,CUST2831,Electronics,758.13,6,crypto,Central,processing,2026-05-11
+TXN-20260511-00387,CUST1679,Groceries,1539.45,7,paypal,East,pending,2026-05-11
+TXN-20260511-00978,CUST2369,Sports,2072.08,2,paypal,South,processing,2026-05-11
+TXN-20260511-00226,CUST1014,Health,927.67,6,paypal,East,refunded,2026-05-11
+TXN-20260511-00475,CUST8166,Clothing,593.68,5,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00010,CUST4225,Books,1740.7,4,debit_card,East,completed,2026-05-11
+TXN-20260511-00055,CUST6499,Beauty,1233.21,6,paypal,North,completed,2026-05-11
+,CUST9586,Beauty,1767.41,10,paypal,Central,processing,2026-05-11
+TXN-20260511-00802,CUST4464,Books,1469.66,4,credit_card,West,pending,2026-05-11
+TXN-20260511-00018,CUST2938,Sports,2160.41,6,paypal,South,processing,2026-05-11
+TXN-20260511-00754,CUST7556,Home & Garden,867.7,3,crypto,North,refunded,2026-05-11
+,CUST3668,Books,2160.75,5,credit_card,West,processing,2026-05-11
+TXN-20260511-00250,CUST5938,Toys,1508.06,9,paypal,West,completed,2026-05-11
+TXN-20260511-00342,CUST5955,Sports,2476.67,8,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00526,CUST3297,Toys,857.78,5,paypal,Central,pending,2026-05-11
+TXN-20260511-00449,CUST3852,Beauty,143.1,5,paypal,South,completed,2026-05-11
+TXN-20260511-00546,CUST3457,Automotive,800.01,9,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00101,CUST5438,Automotive,289.09,9,paypal,Central,pending,2026-05-11
+TXN-20260511-00970,CUST8443,Electronics,2122.53,5,crypto,South,completed,2026-05-11
+TXN-20260511-00926,CUST4126,Toys,1556.86,5,crypto,West,processing,2026-05-11
+TXN-20260511-00981,CUST3659,Electronics,,10,paypal,Central,completed,2026-05-11
+TXN-20260511-00866,CUST2443,Sports,482.23,9,credit_card,West,refunded,2026-05-11
+TXN-20260511-00869,CUST1822,Groceries,981.66,2,paypal,South,pending,2026-05-11
+TXN-20260511-00135,CUST7449,Books,1016.84,5,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00771,CUST5811,Sports,1852.61,10,debit_card,East,pending,2026-05-11
+,CUST9973,Toys,356.4,7,credit_card,West,refunded,2026-05-11
+TXN-20260511-00124,CUST3128,Books,196.54,1,debit_card,East,refunded,2026-05-11
+TXN-20260511-00369,CUST4184,Sports,1541.2,4,debit_card,West,pending,2026-05-11
+TXN-20260511-00161,CUST1085,Sports,2361.05,7,credit_card,East,refunded,2026-05-11
+TXN-20260511-00180,CUST6228,Sports,2042.29,3,debit_card,Central,processing,2026-05-11
+TXN-20260511-00921,CUST1057,Automotive,,9,debit_card,West,completed,2026-05-11
+,CUST2251,Groceries,967.38,6,debit_card,East,refunded,2026-05-11
+TXN-20260511-00031,CUST6950,Groceries,67.36,7,credit_card,West,completed,2026-05-11
+TXN-20260511-00645,CUST9646,Clothing,1215.61,3,crypto,West,processing,2026-05-11
+TXN-20260511-00453,CUST9427,Health,1566.72,5,crypto,West,completed,2026-05-11
+TXN-20260511-00855,CUST8808,Clothing,,8,bank_transfer,West,pending,2026-05-11
+,CUST3404,Health,1819.98,6,paypal,North,refunded,2026-05-11
+TXN-20260511-00201,CUST1566,Automotive,2283.71,5,paypal,North,processing,2026-05-11
+TXN-20260511-00002,CUST1455,Clothing,419.65,2,credit_card,East,pending,2026-05-11
+TXN-20260511-00459,CUST1774,Automotive,1422.99,8,paypal,South,processing,2026-05-11
+TXN-20260511-00744,CUST2699,Automotive,1411.72,7,crypto,North,completed,2026-05-11
+TXN-20260511-00109,CUST8609,Health,,4,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00376,CUST2979,Groceries,186.17,2,paypal,South,processing,2026-05-11
+TXN-20260511-00673,CUST5675,Clothing,1640.49,9,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00451,CUST4520,Sports,2131.23,7,debit_card,East,processing,2026-05-11
+TXN-20260511-00455,CUST7317,Automotive,569.82,6,crypto,South,pending,2026-05-11
+TXN-20260511-00010,CUST6451,Beauty,300.25,7,paypal,Central,processing,2026-05-11
+TXN-20260511-00394,CUST4871,Groceries,651.0,6,crypto,East,completed,2026-05-11
+TXN-20260511-00528,CUST8986,Books,2347.31,3,paypal,West,processing,2026-05-11
+TXN-20260511-00446,CUST9168,Automotive,565.21,3,credit_card,West,processing,2026-05-11
+,CUST9087,Home & Garden,210.01,6,debit_card,West,refunded,2026-05-11
+TXN-20260511-00414,CUST7016,Toys,417.92,1,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00534,CUST5858,Electronics,610.81,3,paypal,East,pending,2026-05-11
+TXN-20260511-00778,CUST9713,Automotive,1954.17,9,crypto,North,processing,2026-05-11
+TXN-20260511-00865,CUST6237,Clothing,1617.24,5,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00841,CUST5159,Home & Garden,1999.13,8,crypto,South,refunded,2026-05-11
+,CUST8766,Books,884.26,4,crypto,South,completed,2026-05-11
+TXN-20260511-00086,CUST6425,Beauty,1910.45,10,paypal,South,refunded,2026-05-11
+TXN-20260511-00247,CUST3086,Toys,1825.7,1,credit_card,Central,processing,2026-05-11
+TXN-20260511-00266,CUST1105,Home & Garden,1084.87,1,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00375,CUST5493,Toys,1654.91,1,crypto,South,refunded,2026-05-11
+TXN-20260511-00356,CUST3252,Toys,2263.57,7,credit_card,South,completed,2026-05-11
+TXN-20260511-00160,CUST6880,Electronics,,2,crypto,Central,processing,2026-05-11
+TXN-20260511-00006,CUST2780,Electronics,2134.39,9,crypto,North,pending,2026-05-11
+TXN-20260511-00766,CUST8370,Health,624.16,7,crypto,East,pending,2026-05-11
+TXN-20260511-00607,CUST3251,Sports,357.34,9,debit_card,Central,processing,2026-05-11
+TXN-20260511-00583,CUST4900,Toys,2333.71,5,credit_card,South,pending,2026-05-11
+TXN-20260511-00980,CUST4512,Automotive,599.96,6,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00606,CUST9005,Beauty,1605.98,9,debit_card,North,completed,2026-05-11
+TXN-20260511-00648,CUST3821,Clothing,793.19,6,paypal,South,pending,2026-05-11
+TXN-20260511-00047,CUST1831,Sports,828.31,4,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00982,CUST4919,Toys,157.4,2,crypto,South,processing,2026-05-11
+TXN-20260511-00096,CUST4154,Beauty,2342.72,6,paypal,South,processing,2026-05-11
+,CUST7621,Books,578.02,9,debit_card,East,completed,2026-05-11
+TXN-20260511-00278,CUST6077,Health,2200.61,6,paypal,South,processing,2026-05-11
+TXN-20260511-00694,CUST5211,Automotive,1040.11,10,credit_card,Central,completed,2026-05-11
+TXN-20260511-00281,CUST4050,Electronics,629.87,7,crypto,Central,completed,2026-05-11
+TXN-20260511-00108,CUST6864,Electronics,1049.98,10,credit_card,East,processing,2026-05-11
+TXN-20260511-00551,CUST8128,Electronics,950.36,1,debit_card,North,pending,2026-05-11
+TXN-20260511-00712,CUST6267,Electronics,2338.0,5,paypal,South,processing,2026-05-11
+TXN-20260511-00379,CUST7355,Electronics,326.86,10,credit_card,East,pending,2026-05-11
+TXN-20260511-00891,CUST1385,Books,1330.55,7,paypal,West,refunded,2026-05-11
+TXN-20260511-00806,CUST6913,Clothing,,3,paypal,West,processing,2026-05-11
+TXN-20260511-00578,CUST9385,Automotive,218.98,4,paypal,North,refunded,2026-05-11
+TXN-20260511-00908,CUST3966,Health,2348.09,6,paypal,East,completed,2026-05-11
+TXN-20260511-00994,CUST5739,Groceries,672.24,1,credit_card,North,pending,2026-05-11
+TXN-20260511-00404,CUST7482,Beauty,,9,crypto,Central,processing,2026-05-11
+TXN-20260511-00586,CUST5249,Beauty,1470.05,7,credit_card,West,pending,2026-05-11
+TXN-20260511-00628,CUST8811,Health,1694.53,4,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00687,CUST2826,Electronics,1551.14,4,paypal,South,pending,2026-05-11
+TXN-20260511-00241,CUST4958,Home & Garden,1627.88,3,credit_card,South,pending,2026-05-11
+TXN-20260511-00330,CUST5828,Clothing,2311.94,2,bank_transfer,Central,processing,2026-05-11
+TXN-20260511-00006,CUST2563,Books,1336.86,10,crypto,East,refunded,2026-05-11
+TXN-20260511-00131,CUST7460,Groceries,705.86,7,debit_card,South,pending,2026-05-11
+TXN-20260511-00341,CUST5218,Sports,631.16,10,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00186,CUST7569,Home & Garden,2300.45,7,debit_card,South,processing,2026-05-11
+TXN-20260511-00117,CUST8434,Electronics,318.97,7,debit_card,West,processing,2026-05-11
+TXN-20260511-00767,CUST3320,Clothing,1236.37,4,crypto,East,completed,2026-05-11
+TXN-20260511-00001,CUST1443,Home & Garden,996.73,5,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00207,CUST1718,Books,431.52,4,paypal,West,completed,2026-05-11
+TXN-20260511-00217,CUST1726,Sports,2040.29,4,bank_transfer,West,refunded,2026-05-11
+TXN-20260511-00910,CUST3210,Books,,9,credit_card,South,pending,2026-05-11
+TXN-20260511-00173,CUST7503,Home & Garden,109.23,1,credit_card,East,pending,2026-05-11
+,CUST5452,Home & Garden,1920.69,1,crypto,East,pending,2026-05-11
+TXN-20260511-00005,CUST9040,Toys,142.18,4,paypal,Central,processing,2026-05-11
+TXN-20260511-00474,CUST6669,Toys,1639.51,6,debit_card,North,completed,2026-05-11
+TXN-20260511-00715,CUST9292,Books,2480.15,3,paypal,Central,completed,2026-05-11
+TXN-20260511-00739,CUST2492,Books,1411.8,5,credit_card,South,refunded,2026-05-11
+TXN-20260511-00557,CUST4456,Health,616.57,8,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00985,CUST6183,Clothing,59.8,4,credit_card,North,refunded,2026-05-11
+TXN-20260511-00986,CUST3420,Clothing,1578.13,9,crypto,North,completed,2026-05-11
+TXN-20260511-00548,CUST9930,Toys,1146.24,9,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00763,CUST1277,Clothing,387.25,5,crypto,East,pending,2026-05-11
+TXN-20260511-00816,CUST2097,Electronics,2251.55,9,debit_card,West,completed,2026-05-11
+TXN-20260511-00151,CUST4081,Sports,2416.95,6,debit_card,South,processing,2026-05-11
+TXN-20260511-00021,CUST6548,Home & Garden,77.35,10,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00545,CUST4167,Home & Garden,1762.19,8,crypto,Central,refunded,2026-05-11
+TXN-20260511-00497,CUST2846,Beauty,2131.19,2,credit_card,East,refunded,2026-05-11
+TXN-20260511-00916,CUST7332,Groceries,906.9,8,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00004,CUST6582,Sports,1020.01,1,debit_card,West,refunded,2026-05-11
+TXN-20260511-00569,CUST7396,Home & Garden,522.98,1,credit_card,Central,processing,2026-05-11
+TXN-20260511-00488,CUST3887,Beauty,1420.42,2,crypto,East,pending,2026-05-11
+TXN-20260511-00246,CUST7462,Electronics,2268.68,3,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00588,CUST5642,Home & Garden,1549.73,5,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00417,CUST7228,Sports,1445.91,5,paypal,West,completed,2026-05-11
+TXN-20260511-00456,CUST2526,Books,2269.79,10,crypto,South,pending,2026-05-11
+TXN-20260511-00364,CUST6336,Beauty,86.92,8,crypto,East,processing,2026-05-11
+TXN-20260511-00782,CUST8917,Sports,1253.62,3,crypto,North,pending,2026-05-11
+TXN-20260511-00178,CUST5609,Home & Garden,1228.14,1,crypto,East,pending,2026-05-11
+TXN-20260511-00874,CUST9628,Toys,431.04,6,crypto,South,processing,2026-05-11
+TXN-20260511-00412,CUST9626,Electronics,1040.56,2,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00872,CUST3988,Toys,1059.72,9,paypal,North,pending,2026-05-11
+TXN-20260511-00009,CUST3698,Electronics,1825.3,9,paypal,South,refunded,2026-05-11
+TXN-20260511-00918,CUST6004,Books,54.45,9,paypal,Central,refunded,2026-05-11
+,CUST2660,Books,1866.19,4,paypal,North,refunded,2026-05-11
+TXN-20260511-00953,CUST7583,Health,2106.3,1,paypal,South,completed,2026-05-11
+TXN-20260511-00584,CUST2774,Books,1505.5,2,crypto,East,pending,2026-05-11
+TXN-20260511-00152,CUST9342,Groceries,,10,crypto,West,pending,2026-05-11
+TXN-20260511-00444,CUST8160,Books,1903.74,8,credit_card,East,pending,2026-05-11
+TXN-20260511-00398,CUST3775,Health,321.14,8,paypal,West,pending,2026-05-11
+TXN-20260511-00058,CUST2871,Beauty,,5,credit_card,South,completed,2026-05-11
+,CUST9792,Clothing,556.97,6,crypto,Central,processing,2026-05-11
+TXN-20260511-00122,CUST1827,Groceries,,7,credit_card,South,pending,2026-05-11
+TXN-20260511-00121,CUST6267,Sports,1263.06,7,crypto,East,pending,2026-05-11
+TXN-20260511-00723,CUST1584,Electronics,2027.75,9,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00202,CUST7427,Clothing,1676.63,5,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00496,CUST8402,Home & Garden,2059.95,1,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00772,CUST7921,Home & Garden,505.86,3,debit_card,South,processing,2026-05-11
+TXN-20260511-00765,CUST9824,Home & Garden,2060.05,3,credit_card,East,processing,2026-05-11
+TXN-20260511-00044,CUST1699,Books,658.01,7,crypto,East,completed,2026-05-11
+TXN-20260511-00003,CUST3018,Books,1442.86,1,crypto,East,refunded,2026-05-11
+TXN-20260511-00899,CUST7858,Books,1378.35,2,debit_card,South,completed,2026-05-11
+TXN-20260511-00460,CUST3245,Sports,1719.49,9,paypal,North,completed,2026-05-11
+TXN-20260511-00009,CUST6049,Books,191.24,5,paypal,South,completed,2026-05-11
+TXN-20260511-00450,CUST5521,Groceries,504.91,4,crypto,South,completed,2026-05-11
+TXN-20260511-00001,CUST2883,Home & Garden,2377.68,9,credit_card,Central,completed,2026-05-11
+TXN-20260511-00125,CUST3782,Toys,1187.39,6,crypto,Central,completed,2026-05-11
+TXN-20260511-00896,CUST1018,Sports,613.5,6,paypal,North,pending,2026-05-11
+TXN-20260511-00457,CUST7605,Clothing,2307.32,5,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00821,CUST7631,Clothing,863.71,5,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00275,CUST1107,Home & Garden,2133.3,1,crypto,Central,processing,2026-05-11
+TXN-20260511-00613,CUST1442,Toys,1248.11,1,debit_card,South,refunded,2026-05-11
+TXN-20260511-00540,CUST8663,Health,2407.98,7,crypto,North,refunded,2026-05-11
+TXN-20260511-00598,CUST5007,Groceries,257.87,8,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00614,CUST3684,Books,851.55,10,credit_card,East,completed,2026-05-11
+TXN-20260511-00233,CUST4290,Beauty,2451.46,1,crypto,East,pending,2026-05-11
+TXN-20260511-00020,CUST1754,Beauty,2356.9,5,credit_card,East,refunded,2026-05-11
+TXN-20260511-00193,CUST7283,Toys,1296.98,5,debit_card,South,completed,2026-05-11
+TXN-20260511-00800,CUST3872,Electronics,1056.19,3,debit_card,East,refunded,2026-05-11
+TXN-20260511-00074,CUST1831,Electronics,543.24,3,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00287,CUST4460,Beauty,1739.71,9,credit_card,East,completed,2026-05-11
+TXN-20260511-00502,CUST9309,Beauty,1729.22,1,debit_card,Central,processing,2026-05-11
+TXN-20260511-00857,CUST7180,Automotive,,1,paypal,East,pending,2026-05-11
+TXN-20260511-00007,CUST3287,Groceries,1380.35,9,debit_card,North,completed,2026-05-11
+TXN-20260511-00402,CUST3176,Home & Garden,590.93,10,credit_card,West,refunded,2026-05-11
+TXN-20260511-00078,CUST1666,Health,1754.86,1,credit_card,South,processing,2026-05-11
+TXN-20260511-00509,CUST7613,Electronics,270.61,2,paypal,North,processing,2026-05-11
+TXN-20260511-00637,CUST8167,Home & Garden,646.54,5,bank_transfer,West,processing,2026-05-11
+TXN-20260511-00903,CUST3646,Health,2260.05,9,paypal,Central,pending,2026-05-11
+TXN-20260511-00713,CUST4315,Sports,1939.93,7,crypto,East,completed,2026-05-11
+TXN-20260511-00901,CUST3695,Health,2332.46,10,credit_card,West,refunded,2026-05-11
+TXN-20260511-00818,CUST5192,Groceries,34.24,6,paypal,West,processing,2026-05-11
+TXN-20260511-00148,CUST1232,Beauty,1819.06,4,credit_card,East,refunded,2026-05-11
+TXN-20260511-00490,CUST2158,Sports,899.99,3,credit_card,South,processing,2026-05-11
+TXN-20260511-00372,CUST9008,Home & Garden,1519.73,10,debit_card,South,refunded,2026-05-11
+TXN-20260511-00658,CUST1920,Health,2370.55,2,paypal,North,processing,2026-05-11
+TXN-20260511-00316,CUST1742,Toys,568.8,2,bank_transfer,South,processing,2026-05-11
+TXN-20260511-00035,CUST6947,Books,1836.02,3,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00587,CUST7429,Toys,2340.79,7,bank_transfer,West,pending,2026-05-11
+,CUST4458,Health,1532.38,10,debit_card,West,processing,2026-05-11
+,CUST9472,Home & Garden,1150.0,2,paypal,North,pending,2026-05-11
+,CUST3708,Health,990.77,8,debit_card,East,pending,2026-05-11
+TXN-20260511-00182,CUST4702,Automotive,2413.86,6,crypto,East,completed,2026-05-11
+TXN-20260511-00062,CUST3472,Automotive,1607.1,7,credit_card,North,refunded,2026-05-11
+TXN-20260511-00004,CUST6384,Sports,2446.77,10,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00338,CUST7181,Toys,1543.7,6,credit_card,West,pending,2026-05-11
+TXN-20260511-00159,CUST4871,Books,2253.52,10,crypto,Central,refunded,2026-05-11
+TXN-20260511-00845,CUST3027,Automotive,600.23,7,debit_card,West,processing,2026-05-11
+TXN-20260511-00753,CUST6014,Beauty,1691.43,5,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00671,CUST9524,Sports,2280.03,5,crypto,Central,completed,2026-05-11
+TXN-20260511-00809,CUST7486,Toys,878.05,7,debit_card,North,refunded,2026-05-11
+TXN-20260511-00205,CUST9402,Home & Garden,84.25,3,credit_card,West,pending,2026-05-11
+TXN-20260511-00738,CUST2038,Clothing,2079.19,5,credit_card,West,pending,2026-05-11
+TXN-20260511-00192,CUST8446,Automotive,477.87,4,crypto,West,completed,2026-05-11
+TXN-20260511-00315,CUST5048,Sports,1179.4,7,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00253,CUST7316,Groceries,1440.87,5,credit_card,South,processing,2026-05-11
+TXN-20260511-00306,CUST4452,Home & Garden,1953.14,3,paypal,Central,processing,2026-05-11
+TXN-20260511-00015,CUST1053,Groceries,283.43,8,crypto,West,completed,2026-05-11
+TXN-20260511-00445,CUST5294,Groceries,2476.23,10,crypto,North,processing,2026-05-11
+TXN-20260511-00361,CUST8963,Electronics,1655.41,6,crypto,West,completed,2026-05-11
+TXN-20260511-00263,CUST6474,Groceries,132.97,7,debit_card,East,processing,2026-05-11
+TXN-20260511-00206,CUST1081,Sports,2063.98,1,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00745,CUST8599,Sports,1200.9,8,bank_transfer,South,processing,2026-05-11
+,CUST8819,Home & Garden,21.59,7,debit_card,South,completed,2026-05-11
+TXN-20260511-00409,CUST9054,Home & Garden,147.94,10,paypal,Central,completed,2026-05-11
+TXN-20260511-00299,CUST5328,Books,821.49,10,crypto,South,processing,2026-05-11
+TXN-20260511-00068,CUST3150,Beauty,2202.61,2,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00906,CUST5255,Sports,213.11,5,debit_card,Central,completed,2026-05-11
+TXN-20260511-00284,CUST3790,Groceries,1155.1,6,crypto,Central,refunded,2026-05-11
+,CUST4756,Health,1467.35,6,debit_card,South,completed,2026-05-11
+TXN-20260511-00787,CUST9846,Groceries,1255.1,3,paypal,West,processing,2026-05-11
+TXN-20260511-00807,CUST4030,Automotive,1168.29,3,paypal,East,pending,2026-05-11
+TXN-20260511-00992,CUST5908,Clothing,1154.28,5,debit_card,North,processing,2026-05-11
+TXN-20260511-00007,CUST8387,Beauty,2067.02,7,crypto,North,completed,2026-05-11
+TXN-20260511-00103,CUST6648,Electronics,2405.95,3,credit_card,West,refunded,2026-05-11
+TXN-20260511-00466,CUST9034,Health,2197.28,9,credit_card,Central,completed,2026-05-11
+TXN-20260511-00675,CUST8892,Toys,320.02,3,paypal,East,refunded,2026-05-11
+TXN-20260511-00912,CUST2009,Electronics,1694.23,9,paypal,South,processing,2026-05-11
+TXN-20260511-00195,CUST7626,Automotive,,3,credit_card,South,refunded,2026-05-11
+,CUST5865,Home & Garden,1041.78,2,credit_card,North,completed,2026-05-11
+TXN-20260511-00522,CUST5596,Clothing,1370.12,7,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00145,CUST7281,Clothing,842.96,2,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00790,CUST5607,Toys,111.39,3,crypto,West,completed,2026-05-11
+TXN-20260511-00805,CUST3814,Beauty,823.79,1,debit_card,South,processing,2026-05-11
+TXN-20260511-00848,CUST3317,Toys,2369.23,6,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00028,CUST7130,Electronics,2233.77,10,paypal,East,refunded,2026-05-11
+TXN-20260511-00326,CUST4672,Clothing,1306.83,1,bank_transfer,North,completed,2026-05-11
+TXN-20260511-00617,CUST4629,Clothing,1568.51,8,crypto,West,processing,2026-05-11
+TXN-20260511-00328,CUST4319,Clothing,2296.06,5,bank_transfer,Central,completed,2026-05-11
+,CUST2363,Automotive,855.3,10,credit_card,Central,processing,2026-05-11
+TXN-20260511-00023,CUST7029,Automotive,149.97,9,credit_card,West,pending,2026-05-11
+TXN-20260511-00003,CUST7900,Clothing,503.59,1,credit_card,North,pending,2026-05-11
+TXN-20260511-00529,CUST5265,Beauty,718.76,7,paypal,East,pending,2026-05-11
+TXN-20260511-00506,CUST4317,Beauty,1083.4,4,crypto,South,pending,2026-05-11
+,CUST1755,Automotive,1065.16,8,crypto,Central,completed,2026-05-11
+TXN-20260511-00005,CUST1236,Electronics,1955.18,6,paypal,Central,completed,2026-05-11
+TXN-20260511-00817,CUST2875,Sports,1305.75,10,debit_card,Central,completed,2026-05-11
+TXN-20260511-00892,CUST2578,Home & Garden,436.11,2,credit_card,East,processing,2026-05-11
+TXN-20260511-00235,CUST5708,Sports,89.49,1,paypal,South,completed,2026-05-11
+TXN-20260511-00876,CUST2980,Clothing,310.36,6,bank_transfer,South,refunded,2026-05-11
+,CUST4740,Clothing,74.33,10,paypal,North,processing,2026-05-11
+,CUST6237,Automotive,727.2,5,debit_card,West,refunded,2026-05-11
+TXN-20260511-00231,CUST3272,Toys,683.59,9,credit_card,West,completed,2026-05-11
+TXN-20260511-00949,CUST5558,Home & Garden,323.13,7,debit_card,West,completed,2026-05-11
+TXN-20260511-00227,CUST5691,Books,1107.47,3,debit_card,North,refunded,2026-05-11
+TXN-20260511-00616,CUST3697,Automotive,1392.83,4,paypal,South,processing,2026-05-11
+TXN-20260511-00277,CUST8788,Groceries,1901.7,8,crypto,North,processing,2026-05-11
+TXN-20260511-00823,CUST4812,Groceries,1351.36,4,crypto,Central,processing,2026-05-11
+TXN-20260511-00909,CUST2489,Groceries,317.45,6,crypto,North,refunded,2026-05-11
+TXN-20260511-00631,CUST6232,Clothing,1452.35,5,credit_card,East,processing,2026-05-11
+TXN-20260511-00426,CUST9709,Home & Garden,,10,credit_card,Central,completed,2026-05-11
+TXN-20260511-00066,CUST4222,Health,1038.87,4,bank_transfer,West,processing,2026-05-11
+TXN-20260511-00919,CUST8661,Sports,1634.57,5,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00002,CUST8627,Home & Garden,1465.25,5,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00005,CUST5324,Sports,1828.68,9,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00005,CUST7043,Clothing,514.13,8,debit_card,Central,completed,2026-05-11
+TXN-20260511-00022,CUST2688,Sports,1553.22,4,crypto,South,pending,2026-05-11
+TXN-20260511-00976,CUST7147,Home & Garden,1097.22,7,crypto,West,completed,2026-05-11
+TXN-20260511-00798,CUST8129,Clothing,1034.83,10,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00403,CUST7226,Beauty,2004.56,5,paypal,East,refunded,2026-05-11
+TXN-20260511-00959,CUST3194,Clothing,2276.47,1,debit_card,North,refunded,2026-05-11
+,CUST5446,Electronics,982.34,7,crypto,West,pending,2026-05-11
+TXN-20260511-00003,CUST7908,Toys,141.84,4,crypto,North,completed,2026-05-11
+TXN-20260511-00989,CUST8388,Electronics,2352.26,7,crypto,Central,processing,2026-05-11
+TXN-20260511-00827,CUST8880,Health,1994.59,5,crypto,Central,processing,2026-05-11
+TXN-20260511-00325,CUST7488,Groceries,811.55,4,paypal,Central,completed,2026-05-11
+TXN-20260511-00851,CUST9656,Home & Garden,312.02,8,paypal,North,pending,2026-05-11
+TXN-20260511-00599,CUST5302,Books,277.16,3,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00520,CUST4398,Books,549.58,9,paypal,East,processing,2026-05-11
+TXN-20260511-00535,CUST8131,Sports,100.46,7,debit_card,East,completed,2026-05-11
+TXN-20260511-00401,CUST1350,Automotive,2421.91,6,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00100,CUST1925,Home & Garden,461.3,9,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00492,CUST5304,Books,106.31,6,crypto,North,pending,2026-05-11
+TXN-20260511-00742,CUST7461,Sports,478.0,4,credit_card,West,pending,2026-05-11
+TXN-20260511-00605,CUST1262,Health,1151.57,7,bank_transfer,South,processing,2026-05-11
+TXN-20260511-00010,CUST9929,Beauty,1550.27,10,crypto,North,processing,2026-05-11
+TXN-20260511-00996,CUST9475,Health,362.75,1,crypto,East,processing,2026-05-11
+TXN-20260511-00014,CUST7831,Automotive,78.7,2,credit_card,East,pending,2026-05-11
+TXN-20260511-00436,CUST4489,Toys,217.92,8,paypal,South,processing,2026-05-11
+TXN-20260511-00794,CUST6632,Books,763.23,9,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00251,CUST4574,Home & Garden,1407.84,3,paypal,North,processing,2026-05-11
+TXN-20260511-00871,CUST3981,Electronics,1579.53,5,credit_card,East,processing,2026-05-11
+TXN-20260511-00332,CUST8533,Automotive,244.2,4,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00664,CUST1303,Clothing,2322.87,9,paypal,West,processing,2026-05-11
+TXN-20260511-00291,CUST2579,Home & Garden,2444.21,5,credit_card,West,completed,2026-05-11
+TXN-20260511-00652,CUST4427,Clothing,1055.81,1,crypto,Central,pending,2026-05-11
+TXN-20260511-00141,CUST7252,Books,289.76,2,debit_card,North,refunded,2026-05-11
+TXN-20260511-00969,CUST7643,Sports,1223.87,8,crypto,Central,refunded,2026-05-11
+TXN-20260511-00174,CUST5751,Electronics,2379.86,2,credit_card,South,refunded,2026-05-11
+TXN-20260511-00890,CUST6610,Clothing,,7,bank_transfer,North,completed,2026-05-11
+TXN-20260511-00879,CUST6534,Clothing,45.44,2,debit_card,East,completed,2026-05-11
+TXN-20260511-00007,CUST5380,Clothing,2254.59,9,paypal,East,refunded,2026-05-11
+TXN-20260511-00731,CUST3997,Toys,578.41,10,debit_card,West,pending,2026-05-11
+,CUST5400,Health,662.58,3,credit_card,East,processing,2026-05-11
+TXN-20260511-00133,CUST3011,Sports,564.37,8,paypal,East,refunded,2026-05-11
+TXN-20260511-00580,CUST9863,Electronics,1940.2,9,crypto,East,refunded,2026-05-11
+TXN-20260511-00390,CUST8825,Books,2373.1,8,crypto,North,completed,2026-05-11
+TXN-20260511-00558,CUST3151,Automotive,1591.77,7,debit_card,South,pending,2026-05-11
+TXN-20260511-00001,CUST2227,Sports,2258.06,10,crypto,East,refunded,2026-05-11
+,CUST1700,Books,1231.36,4,debit_card,South,refunded,2026-05-11
+TXN-20260511-00471,CUST3258,Toys,2304.93,2,credit_card,West,refunded,2026-05-11
+TXN-20260511-00463,CUST1439,Sports,285.57,4,paypal,West,completed,2026-05-11
+TXN-20260511-00889,CUST7646,Beauty,2269.63,6,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00717,CUST6486,Health,1373.34,10,debit_card,North,pending,2026-05-11
+TXN-20260511-00176,CUST3429,Automotive,672.25,3,paypal,West,pending,2026-05-11
+TXN-20260511-00965,CUST2550,Clothing,1140.87,4,credit_card,North,completed,2026-05-11
+,CUST1689,Books,472.42,2,paypal,West,refunded,2026-05-11
+TXN-20260511-00995,CUST2119,Clothing,1804.1,4,paypal,East,processing,2026-05-11
+TXN-20260511-00431,CUST9917,Electronics,1322.29,3,bank_transfer,West,completed,2026-05-11
+,CUST1449,Beauty,19.71,6,crypto,North,processing,2026-05-11
+TXN-20260511-00004,CUST6957,Clothing,2068.46,1,crypto,South,processing,2026-05-11
+TXN-20260511-00711,CUST3626,Sports,1946.39,4,paypal,East,pending,2026-05-11
+TXN-20260511-00828,CUST7099,Beauty,1976.09,3,debit_card,East,pending,2026-05-11
+TXN-20260511-00007,CUST6477,Groceries,24.34,4,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00099,CUST1014,Health,1174.26,7,debit_card,South,pending,2026-05-11
+TXN-20260511-00244,CUST1702,Home & Garden,1388.57,4,debit_card,East,completed,2026-05-11
+TXN-20260511-00310,CUST8509,Sports,1235.68,4,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00948,CUST3115,Beauty,2186.29,2,crypto,West,processing,2026-05-11
+TXN-20260511-00144,CUST9250,Toys,366.29,3,paypal,North,processing,2026-05-11
+TXN-20260511-00039,CUST6884,Automotive,1314.74,3,crypto,West,completed,2026-05-11
+TXN-20260511-00423,CUST1699,Electronics,1849.27,6,crypto,West,processing,2026-05-11
+TXN-20260511-00115,CUST3444,Groceries,1586.77,9,crypto,East,processing,2026-05-11
+TXN-20260511-00716,CUST7528,Home & Garden,1987.1,8,crypto,West,processing,2026-05-11
+TXN-20260511-00748,CUST6196,Clothing,171.24,7,credit_card,South,refunded,2026-05-11
+TXN-20260511-00516,CUST4726,Sports,1724.13,9,credit_card,East,refunded,2026-05-11
+,CUST7895,Electronics,783.26,8,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00524,CUST7936,Home & Garden,1272.68,2,paypal,North,completed,2026-05-11
+TXN-20260511-00836,CUST4917,Books,724.09,10,paypal,Central,processing,2026-05-11
+TXN-20260511-00689,CUST6170,Clothing,2257.89,8,credit_card,West,completed,2026-05-11
+TXN-20260511-00399,CUST7525,Toys,828.81,5,credit_card,East,completed,2026-05-11
+TXN-20260511-00574,CUST1707,Home & Garden,1047.04,6,crypto,West,refunded,2026-05-11
+TXN-20260511-00902,CUST1827,Home & Garden,487.68,2,crypto,East,refunded,2026-05-11
+TXN-20260511-00792,CUST4024,Electronics,709.41,8,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00187,CUST8241,Home & Garden,252.78,8,crypto,West,refunded,2026-05-11
+TXN-20260511-00223,CUST4960,Toys,2357.99,3,credit_card,West,pending,2026-05-11
+TXN-20260511-00076,CUST4814,Toys,1147.51,2,paypal,North,pending,2026-05-11
+TXN-20260511-00033,CUST3479,Toys,666.36,1,credit_card,Central,processing,2026-05-11
+TXN-20260511-00007,CUST6595,Clothing,558.4,7,paypal,North,pending,2026-05-11
+TXN-20260511-00289,CUST5327,Books,692.62,5,crypto,North,refunded,2026-05-11
+TXN-20260511-00300,CUST4782,Toys,907.61,4,paypal,Central,completed,2026-05-11
+TXN-20260511-00944,CUST3544,Clothing,202.63,1,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00009,CUST7422,Sports,1166.89,7,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00543,CUST1948,Toys,308.92,9,credit_card,East,completed,2026-05-11
+TXN-20260511-00221,CUST1070,Home & Garden,819.01,5,debit_card,Central,pending,2026-05-11
+TXN-20260511-00380,CUST4582,Automotive,,5,debit_card,North,processing,2026-05-11
+TXN-20260511-00288,CUST3969,Beauty,1781.55,3,bank_transfer,Central,refunded,2026-05-11
+,CUST1214,Groceries,1705.28,7,crypto,West,refunded,2026-05-11
+TXN-20260511-00167,CUST5425,Books,1181.0,10,crypto,North,pending,2026-05-11
+TXN-20260511-00345,CUST3710,Books,434.17,3,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00757,CUST3627,Groceries,107.38,8,paypal,South,refunded,2026-05-11
+,CUST7850,Automotive,1711.78,7,crypto,East,pending,2026-05-11
+TXN-20260511-00190,CUST4359,Beauty,344.23,1,credit_card,East,refunded,2026-05-11
+TXN-20260511-00447,CUST3418,Automotive,745.09,9,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00283,CUST4595,Groceries,1497.08,9,paypal,East,completed,2026-05-11
+TXN-20260511-00925,CUST3900,Home & Garden,654.23,9,debit_card,Central,pending,2026-05-11
+TXN-20260511-00396,CUST4070,Clothing,1249.05,1,paypal,East,refunded,2026-05-11
+TXN-20260511-00252,CUST2919,Home & Garden,249.56,9,debit_card,Central,processing,2026-05-11
+TXN-20260511-00454,CUST5369,Health,1186.5,5,bank_transfer,South,refunded,2026-05-11
+,CUST3098,Beauty,1560.38,4,crypto,South,completed,2026-05-11
+TXN-20260511-00240,CUST5520,Groceries,,10,credit_card,West,completed,2026-05-11
+TXN-20260511-00009,CUST1355,Home & Garden,230.97,4,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00136,CUST2330,Books,561.19,10,paypal,Central,refunded,2026-05-11
+TXN-20260511-00795,CUST9655,Electronics,1801.56,1,debit_card,South,processing,2026-05-11
+TXN-20260511-00422,CUST3360,Health,291.77,8,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00655,CUST2027,Home & Garden,1662.16,4,credit_card,North,completed,2026-05-11
+TXN-20260511-00508,CUST3450,Health,965.68,2,crypto,North,refunded,2026-05-11
+TXN-20260511-00295,CUST9608,Toys,1353.4,9,paypal,West,pending,2026-05-11
+TXN-20260511-00004,CUST3952,Toys,1880.88,5,credit_card,West,refunded,2026-05-11
+TXN-20260511-00056,CUST7040,Automotive,1614.02,1,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00378,CUST5464,Books,1421.39,8,crypto,North,processing,2026-05-11
+TXN-20260511-00177,CUST9720,Home & Garden,2266.4,1,crypto,Central,processing,2026-05-11
+TXN-20260511-00690,CUST8664,Electronics,1798.19,8,credit_card,South,refunded,2026-05-11
+TXN-20260511-00629,CUST6725,Groceries,1167.1,9,paypal,North,pending,2026-05-11
+TXN-20260511-00537,CUST3569,Clothing,1321.72,7,credit_card,Central,processing,2026-05-11
+TXN-20260511-00189,CUST2192,Books,2047.7,8,debit_card,North,pending,2026-05-11
+TXN-20260511-00024,CUST1620,Electronics,1672.52,10,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00751,CUST6904,Clothing,1323.24,3,paypal,East,refunded,2026-05-11
+TXN-20260511-00188,CUST2057,Beauty,1842.02,6,paypal,East,pending,2026-05-11
+TXN-20260511-00499,CUST8987,Health,2024.31,10,credit_card,West,refunded,2026-05-11
+TXN-20260511-00619,CUST3653,Sports,1138.31,10,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00092,CUST1214,Electronics,1680.37,3,debit_card,West,processing,2026-05-11
+TXN-20260511-00050,CUST2054,Automotive,2459.8,5,debit_card,East,completed,2026-05-11
+,CUST1713,Books,2214.98,9,debit_card,Central,refunded,2026-05-11
+TXN-20260511-00139,CUST8004,Beauty,1291.82,3,debit_card,Central,processing,2026-05-11
+TXN-20260511-00324,CUST8093,Health,2104.94,8,debit_card,West,pending,2026-05-11
+TXN-20260511-00649,CUST1582,Books,1630.22,8,crypto,East,completed,2026-05-11
+TXN-20260511-00936,CUST9130,Health,1086.88,3,debit_card,South,pending,2026-05-11
+TXN-20260511-00581,CUST8200,Groceries,149.22,4,debit_card,Central,completed,2026-05-11
+TXN-20260511-00432,CUST2748,Sports,112.16,5,crypto,Central,pending,2026-05-11
+TXN-20260511-00323,CUST8995,Automotive,1574.18,4,credit_card,North,completed,2026-05-11
+TXN-20260511-00434,CUST7041,Clothing,141.27,8,bank_transfer,Central,pending,2026-05-11
+TXN-20260511-00465,CUST1188,Beauty,1922.49,2,crypto,West,completed,2026-05-11
+TXN-20260511-00011,CUST4802,Home & Garden,528.46,2,debit_card,East,pending,2026-05-11
+TXN-20260511-00429,CUST8320,Automotive,215.1,10,crypto,East,processing,2026-05-11
+TXN-20260511-00302,CUST8015,Health,1141.44,10,crypto,South,pending,2026-05-11
+TXN-20260511-00968,CUST9476,Home & Garden,71.89,8,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00674,CUST3215,Books,291.02,9,debit_card,North,refunded,2026-05-11
+TXN-20260511-00267,CUST6629,Electronics,1714.03,3,debit_card,South,processing,2026-05-11
+TXN-20260511-00305,CUST4213,Groceries,1799.13,5,crypto,South,pending,2026-05-11
+,CUST7228,Electronics,655.67,10,paypal,East,processing,2026-05-11
+TXN-20260511-00973,CUST9043,Health,1737.35,8,debit_card,East,processing,2026-05-11
+TXN-20260511-00718,CUST9021,Clothing,1432.19,6,debit_card,West,pending,2026-05-11
+TXN-20260511-00622,CUST5858,Groceries,481.49,2,credit_card,North,refunded,2026-05-11
+TXN-20260511-00957,CUST7952,Sports,1000.63,4,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00157,CUST1599,Health,211.16,10,debit_card,West,pending,2026-05-11
+TXN-20260511-00505,CUST7217,Beauty,876.84,1,debit_card,East,refunded,2026-05-11
+TXN-20260511-00676,CUST1152,Automotive,260.86,8,crypto,North,refunded,2026-05-11
+TXN-20260511-00769,CUST4869,Electronics,356.84,8,crypto,East,refunded,2026-05-11
+TXN-20260511-00355,CUST5954,Groceries,296.95,1,credit_card,West,completed,2026-05-11
+TXN-20260511-00834,CUST8487,Books,2421.37,6,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00462,CUST5970,Beauty,463.22,2,credit_card,East,completed,2026-05-11
+TXN-20260511-00261,CUST7031,Electronics,1114.79,4,credit_card,East,processing,2026-05-11
+TXN-20260511-00348,CUST6751,Toys,1848.18,1,debit_card,East,refunded,2026-05-11
+TXN-20260511-00882,CUST6986,Home & Garden,1412.49,2,paypal,Central,processing,2026-05-11
+TXN-20260511-00663,CUST1406,Clothing,2138.59,5,debit_card,North,processing,2026-05-11
+TXN-20260511-00728,CUST8012,Beauty,287.71,6,debit_card,West,processing,2026-05-11
+TXN-20260511-00415,CUST4732,Home & Garden,792.23,8,debit_card,West,refunded,2026-05-11
+TXN-20260511-00993,CUST3250,Automotive,391.03,6,debit_card,North,refunded,2026-05-11
+TXN-20260511-00746,CUST9045,Health,247.99,7,crypto,North,refunded,2026-05-11
+TXN-20260511-00377,CUST5601,Home & Garden,897.52,7,debit_card,South,refunded,2026-05-11
+TXN-20260511-00343,CUST5607,Health,1577.29,6,bank_transfer,North,completed,2026-05-11
+,CUST4771,Health,1526.81,2,credit_card,West,refunded,2026-05-11
+TXN-20260511-00626,CUST9902,Electronics,1644.92,1,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00308,CUST8578,Electronics,1620.03,10,paypal,East,pending,2026-05-11
+TXN-20260511-00314,CUST6578,Beauty,1429.98,5,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00915,CUST7190,Groceries,950.0,8,paypal,East,pending,2026-05-11
+TXN-20260511-00726,CUST4907,Groceries,2085.06,8,crypto,East,refunded,2026-05-11
+TXN-20260511-00784,CUST9255,Books,199.16,4,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00974,CUST1988,Electronics,386.92,4,crypto,Central,pending,2026-05-11
+TXN-20260511-00464,CUST2617,Books,1885.29,3,paypal,Central,pending,2026-05-11
+TXN-20260511-00741,CUST6818,Health,1675.33,1,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00461,CUST8935,Books,820.8,10,debit_card,South,completed,2026-05-11
+TXN-20260511-00831,CUST8371,Groceries,2176.88,3,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00861,CUST1818,Beauty,1800.73,10,crypto,East,pending,2026-05-11
+TXN-20260511-00164,CUST9934,Toys,2166.19,10,debit_card,East,pending,2026-05-11
+TXN-20260511-00814,CUST3841,Health,1781.2,1,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00609,CUST9235,Toys,1621.05,8,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00796,CUST5350,Sports,1026.6,8,crypto,West,pending,2026-05-11
+,CUST2911,Health,1696.44,4,paypal,Central,refunded,2026-05-11
+TXN-20260511-00126,CUST2468,Home & Garden,164.48,4,crypto,Central,pending,2026-05-11
+TXN-20260511-00301,CUST1585,Groceries,1209.59,7,crypto,Central,processing,2026-05-11
+TXN-20260511-00010,CUST9186,Clothing,2484.69,5,paypal,South,refunded,2026-05-11
+TXN-20260511-00489,CUST5565,Sports,1615.59,9,debit_card,East,completed,2026-05-11
+TXN-20260511-00860,CUST3467,Sports,1036.08,1,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00793,CUST2739,Automotive,1962.12,5,paypal,South,completed,2026-05-11
+TXN-20260511-00665,CUST4993,Health,468.04,8,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00419,CUST9747,Home & Garden,2429.74,4,credit_card,South,processing,2026-05-11
+TXN-20260511-00962,CUST4249,Automotive,,4,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00990,CUST4565,Automotive,1141.53,7,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00470,CUST2905,Automotive,2156.68,10,crypto,South,pending,2026-05-11
+TXN-20260511-00169,CUST1163,Toys,380.71,2,crypto,North,completed,2026-05-11
+TXN-20260511-00589,CUST9948,Beauty,1750.85,9,paypal,West,pending,2026-05-11
+TXN-20260511-00203,CUST1185,Books,2426.97,1,debit_card,West,processing,2026-05-11
+TXN-20260511-00155,CUST6917,Groceries,1325.69,5,debit_card,Central,processing,2026-05-11
+TXN-20260511-00010,CUST6744,Sports,1905.82,6,debit_card,North,pending,2026-05-11
+TXN-20260511-00382,CUST3680,Home & Garden,1991.87,10,credit_card,East,pending,2026-05-11
+TXN-20260511-00864,CUST9415,Home & Garden,1958.16,7,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00081,CUST9118,Groceries,2249.28,7,crypto,North,refunded,2026-05-11
+TXN-20260511-00493,CUST1668,Books,869.57,7,paypal,West,refunded,2026-05-11
+,CUST7393,Home & Garden,872.15,5,paypal,West,refunded,2026-05-11
+TXN-20260511-00507,CUST3084,Books,1670.27,10,debit_card,East,pending,2026-05-11
+TXN-20260511-00038,CUST2764,Toys,,4,credit_card,Central,processing,2026-05-11
+TXN-20260511-00852,CUST5011,Electronics,1174.54,1,crypto,North,pending,2026-05-11
+TXN-20260511-00758,CUST9860,Beauty,383.47,5,crypto,South,completed,2026-05-11
+TXN-20260511-00469,CUST1063,Health,978.0,3,bank_transfer,West,processing,2026-05-11
+TXN-20260511-00756,CUST7498,Sports,2016.79,2,paypal,East,pending,2026-05-11
+TXN-20260511-00780,CUST8034,Groceries,2177.34,7,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00388,CUST8225,Clothing,1743.21,2,crypto,West,processing,2026-05-11
+,CUST1139,Sports,2273.23,1,crypto,South,processing,2026-05-11
+TXN-20260511-00653,CUST8654,Electronics,1158.09,1,debit_card,North,processing,2026-05-11
+TXN-20260511-00003,CUST2478,Beauty,735.07,5,paypal,North,processing,2026-05-11
+TXN-20260511-00590,CUST6002,Electronics,41.46,2,paypal,South,completed,2026-05-11
+,CUST7959,Clothing,918.53,5,crypto,Central,pending,2026-05-11
+TXN-20260511-00702,CUST9902,Clothing,1452.35,1,paypal,West,completed,2026-05-11
+TXN-20260511-00695,CUST1278,Home & Garden,465.56,7,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00643,CUST8572,Books,120.29,2,crypto,South,refunded,2026-05-11
+TXN-20260511-00040,CUST8494,Groceries,1580.43,4,credit_card,Central,completed,2026-05-11
+TXN-20260511-00592,CUST4879,Clothing,1410.61,4,credit_card,East,refunded,2026-05-11
+TXN-20260511-00025,CUST9261,Automotive,1369.99,6,credit_card,Central,completed,2026-05-11
+TXN-20260511-00542,CUST5938,Toys,1097.46,9,paypal,South,refunded,2026-05-11
+TXN-20260511-00991,CUST2605,Health,1573.65,10,paypal,Central,pending,2026-05-11
+TXN-20260511-00064,CUST7665,Health,1640.68,10,debit_card,West,processing,2026-05-11
+TXN-20260511-00318,CUST7313,Electronics,892.15,6,paypal,South,pending,2026-05-11
+,CUST3367,Home & Garden,1251.39,7,crypto,Central,refunded,2026-05-11
+TXN-20260511-00386,CUST5404,Home & Garden,1442.94,1,crypto,East,refunded,2026-05-11
+TXN-20260511-00211,CUST3374,Toys,2406.65,5,credit_card,Central,processing,2026-05-11
+TXN-20260511-00359,CUST9635,Sports,686.71,9,bank_transfer,South,processing,2026-05-11
+,CUST7456,Books,500.75,6,credit_card,West,processing,2026-05-11
+,CUST7369,Sports,1209.06,10,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00684,CUST6076,Health,1978.51,6,paypal,East,completed,2026-05-11
+TXN-20260511-00911,CUST3031,Clothing,728.02,7,crypto,West,completed,2026-05-11
+TXN-20260511-00615,CUST7076,Electronics,1131.12,10,bank_transfer,South,processing,2026-05-11
+TXN-20260511-00416,CUST1390,Health,985.48,10,crypto,South,processing,2026-05-11
+TXN-20260511-00042,CUST9379,Groceries,2330.6,2,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00952,CUST8262,Automotive,1791.08,4,debit_card,West,refunded,2026-05-11
+TXN-20260511-00274,CUST5714,Beauty,1984.76,6,credit_card,Central,pending,2026-05-11
+TXN-20260511-00292,CUST3989,Sports,1794.29,9,credit_card,West,refunded,2026-05-11
+,CUST7328,Toys,1262.53,3,credit_card,Central,pending,2026-05-11
+TXN-20260511-00264,CUST5940,Clothing,1600.99,8,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00001,CUST4199,Books,2269.55,4,debit_card,East,processing,2026-05-11
+TXN-20260511-00016,CUST3990,Groceries,588.16,1,credit_card,East,refunded,2026-05-11
+TXN-20260511-00736,CUST7795,Beauty,272.62,2,debit_card,East,refunded,2026-05-11
+TXN-20260511-00815,CUST8858,Automotive,1266.84,10,debit_card,North,processing,2026-05-11
+TXN-20260511-00142,CUST9054,Beauty,1509.52,4,debit_card,South,processing,2026-05-11
+TXN-20260511-00371,CUST6069,Groceries,465.91,8,credit_card,West,completed,2026-05-11
+TXN-20260511-00216,CUST6295,Toys,1544.76,3,bank_transfer,Central,processing,2026-05-11
+TXN-20260511-00532,CUST1109,Groceries,864.4,4,debit_card,East,refunded,2026-05-11
+TXN-20260511-00008,CUST4186,Automotive,2188.87,5,paypal,East,completed,2026-05-11
+TXN-20260511-00979,CUST2577,Electronics,1711.42,4,bank_transfer,West,completed,2026-05-11
+TXN-20260511-00270,CUST7794,Sports,2269.37,1,crypto,Central,pending,2026-05-11
+TXN-20260511-00904,CUST5948,Electronics,2315.73,5,debit_card,East,pending,2026-05-11
+TXN-20260511-00006,CUST4853,Beauty,821.52,3,credit_card,West,processing,2026-05-11
+TXN-20260511-00595,CUST3932,Beauty,2042.74,6,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00833,CUST3430,Toys,380.05,7,debit_card,East,processing,2026-05-11
+TXN-20260511-00166,CUST4304,Sports,57.68,4,credit_card,Central,pending,2026-05-11
+TXN-20260511-00895,CUST4161,Electronics,1815.66,3,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00863,CUST5326,Automotive,1762.03,3,credit_card,West,processing,2026-05-11
+TXN-20260511-00740,CUST1852,Toys,929.43,2,bank_transfer,West,refunded,2026-05-11
+TXN-20260511-00110,CUST5016,Beauty,1968.88,5,paypal,West,completed,2026-05-11
+TXN-20260511-00366,CUST5372,Groceries,1296.92,7,credit_card,South,processing,2026-05-11
+TXN-20260511-00920,CUST9364,Groceries,,5,credit_card,East,refunded,2026-05-11
+TXN-20260511-00004,CUST3194,Books,577.53,4,crypto,West,pending,2026-05-11
+TXN-20260511-00045,CUST2135,Clothing,2159.56,7,debit_card,Central,pending,2026-05-11
+TXN-20260511-00709,CUST1187,Books,2344.6,9,bank_transfer,North,refunded,2026-05-11
+TXN-20260511-00849,CUST8466,Books,760.64,10,paypal,Central,refunded,2026-05-11
+TXN-20260511-00651,CUST7552,Electronics,275.22,3,debit_card,West,processing,2026-05-11
+TXN-20260511-00875,CUST2159,Toys,1352.01,8,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00002,CUST1990,Electronics,969.43,2,paypal,North,processing,2026-05-11
+TXN-20260511-00555,CUST2122,Beauty,1813.11,3,credit_card,Central,pending,2026-05-11
+TXN-20260511-00930,CUST1336,Automotive,648.48,6,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00007,CUST3224,Home & Garden,1543.74,6,credit_card,South,completed,2026-05-11
+TXN-20260511-00570,CUST8769,Automotive,2364.76,5,paypal,South,completed,2026-05-11
+TXN-20260511-00975,CUST4602,Home & Garden,1768.32,6,crypto,South,pending,2026-05-11
+TXN-20260511-00303,CUST3320,Toys,2121.78,9,paypal,West,completed,2026-05-11
+TXN-20260511-00411,CUST3947,Clothing,1581.93,8,crypto,South,refunded,2026-05-11
+TXN-20260511-00697,CUST6384,Beauty,597.73,3,crypto,Central,refunded,2026-05-11
+TXN-20260511-00061,CUST1726,Clothing,,9,credit_card,East,completed,2026-05-11
+TXN-20260511-00533,CUST3990,Sports,745.61,9,debit_card,Central,refunded,2026-05-11
+,CUST2780,Home & Garden,2125.32,5,debit_card,West,processing,2026-05-11
+TXN-20260511-00238,CUST9603,Groceries,1754.86,7,credit_card,North,pending,2026-05-11
+TXN-20260511-00111,CUST2840,Sports,1466.34,3,credit_card,South,processing,2026-05-11
+TXN-20260511-00593,CUST6697,Groceries,341.83,7,debit_card,North,processing,2026-05-11
+TXN-20260511-00789,CUST8873,Automotive,2364.42,4,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00424,CUST7721,Groceries,990.02,4,crypto,West,processing,2026-05-11
+TXN-20260511-00352,CUST9048,Books,95.49,10,paypal,Central,processing,2026-05-11
+TXN-20260511-00956,CUST2664,Groceries,413.75,3,crypto,East,processing,2026-05-11
+TXN-20260511-00321,CUST7999,Groceries,1681.87,8,crypto,East,pending,2026-05-11
+TXN-20260511-00094,CUST9872,Health,1526.74,2,paypal,East,pending,2026-05-11
+TXN-20260511-00971,CUST7807,Automotive,1700.56,2,paypal,East,refunded,2026-05-11
+TXN-20260511-00801,CUST3176,Beauty,111.04,1,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00591,CUST9588,Clothing,884.55,1,debit_card,East,processing,2026-05-11
+TXN-20260511-00725,CUST8852,Electronics,590.22,1,debit_card,South,pending,2026-05-11
+TXN-20260511-00420,CUST1911,Beauty,2082.39,10,paypal,Central,completed,2026-05-11
+TXN-20260511-00090,CUST7493,Electronics,1113.13,3,credit_card,South,completed,2026-05-11
+TXN-20260511-00775,CUST6275,Toys,1708.23,9,crypto,West,processing,2026-05-11
+TXN-20260511-00961,CUST7598,Books,2352.18,4,crypto,East,refunded,2026-05-11
+TXN-20260511-00987,CUST2713,Electronics,774.36,6,debit_card,Central,processing,2026-05-11
+TXN-20260511-00421,CUST7211,Books,1778.14,6,crypto,North,processing,2026-05-11
+TXN-20260511-00604,CUST2251,Beauty,336.14,7,paypal,East,processing,2026-05-11
+TXN-20260511-00262,CUST7537,Clothing,1472.23,7,credit_card,North,pending,2026-05-11
+TXN-20260511-00686,CUST8503,Toys,1276.81,4,bank_transfer,South,completed,2026-05-11
+TXN-20260511-00013,CUST4914,Sports,1258.96,9,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00734,CUST6863,Electronics,2022.49,10,bank_transfer,West,refunded,2026-05-11
+TXN-20260511-00983,CUST4087,Toys,2112.46,8,credit_card,North,pending,2026-05-11
+TXN-20260511-00140,CUST6093,Groceries,496.11,8,debit_card,East,completed,2026-05-11
+TXN-20260511-00480,CUST2010,Books,2207.14,2,paypal,East,refunded,2026-05-11
+TXN-20260511-00958,CUST4024,Sports,1478.79,1,credit_card,West,completed,2026-05-11
+TXN-20260511-00154,CUST2134,Beauty,274.99,1,crypto,South,processing,2026-05-11
+,CUST8019,Groceries,1348.68,8,bank_transfer,East,pending,2026-05-11
+TXN-20260511-00147,CUST5360,Books,595.11,9,credit_card,Central,completed,2026-05-11
+TXN-20260511-00760,CUST9887,Toys,1140.1,10,crypto,East,refunded,2026-05-11
+TXN-20260511-00158,CUST5626,Home & Garden,377.7,4,credit_card,West,completed,2026-05-11
+TXN-20260511-00897,CUST3733,Electronics,686.31,10,crypto,West,pending,2026-05-11
+TXN-20260511-00130,CUST6402,Sports,16.25,4,crypto,South,pending,2026-05-11
+TXN-20260511-00661,CUST7921,Beauty,2153.44,10,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00803,CUST8660,Sports,1436.97,4,debit_card,North,pending,2026-05-11
+TXN-20260511-00561,CUST9941,Clothing,804.28,6,crypto,North,refunded,2026-05-11
+TXN-20260511-00472,CUST2979,Sports,1074.82,2,debit_card,North,pending,2026-05-11
+TXN-20260511-00067,CUST5586,Automotive,1623.08,9,credit_card,Central,pending,2026-05-11
+TXN-20260511-00280,CUST5062,Health,208.82,5,bank_transfer,East,completed,2026-05-11
+TXN-20260511-00824,CUST2631,Beauty,131.95,3,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00914,CUST1478,Home & Garden,1351.2,3,paypal,South,processing,2026-05-11
+TXN-20260511-00685,CUST5863,Health,1162.84,2,credit_card,Central,refunded,2026-05-11
+TXN-20260511-00682,CUST2919,Beauty,58.25,7,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00777,CUST3500,Home & Garden,365.51,7,paypal,North,completed,2026-05-11
+TXN-20260511-00183,CUST8802,Groceries,108.16,1,debit_card,East,processing,2026-05-11
+TXN-20260511-00967,CUST2780,Groceries,1104.66,1,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00196,CUST3393,Clothing,1533.87,1,paypal,North,completed,2026-05-11
+,CUST5616,Clothing,2120.5,7,bank_transfer,North,completed,2026-05-11
+TXN-20260511-00660,CUST5962,Clothing,847.36,2,debit_card,East,pending,2026-05-11
+TXN-20260511-00255,CUST4155,Groceries,1087.24,1,bank_transfer,South,refunded,2026-05-11
+TXN-20260511-00123,CUST5297,Toys,2100.57,8,paypal,Central,pending,2026-05-11
+TXN-20260511-00547,CUST2173,Groceries,351.09,3,bank_transfer,North,refunded,2026-05-11
+,CUST3965,Health,1622.97,1,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00559,CUST4653,Clothing,2361.25,2,crypto,North,processing,2026-05-11
+TXN-20260511-00003,CUST7782,Sports,106.53,7,debit_card,North,processing,2026-05-11
+TXN-20260511-00550,CUST2659,Toys,,2,bank_transfer,North,processing,2026-05-11
+TXN-20260511-00048,CUST9917,Groceries,1022.35,8,paypal,Central,completed,2026-05-11
+TXN-20260511-00084,CUST5940,Toys,351.79,7,bank_transfer,South,pending,2026-05-11
+TXN-20260511-00721,CUST4918,Clothing,2109.88,4,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00699,CUST1898,Books,45.16,8,paypal,Central,refunded,2026-05-11
+TXN-20260511-00228,CUST9319,Automotive,1114.55,10,paypal,South,completed,2026-05-11
+TXN-20260511-00761,CUST5625,Books,2288.05,3,debit_card,East,refunded,2026-05-11
+TXN-20260511-00928,CUST1312,Electronics,1058.21,1,debit_card,Central,completed,2026-05-11
+TXN-20260511-00940,CUST5110,Automotive,2404.6,7,debit_card,North,refunded,2026-05-11
+TXN-20260511-00065,CUST3299,Toys,1007.82,1,paypal,North,completed,2026-05-11
+TXN-20260511-00179,CUST3350,Books,1136.42,10,paypal,Central,processing,2026-05-11
+TXN-20260511-00367,CUST3197,Books,639.09,3,debit_card,West,refunded,2026-05-11
+TXN-20260511-00707,CUST8765,Electronics,841.69,2,crypto,East,refunded,2026-05-11
+TXN-20260511-00691,CUST3531,Books,1112.89,4,crypto,South,completed,2026-05-11
+TXN-20260511-00004,CUST7662,Beauty,2401.89,8,paypal,West,completed,2026-05-11
+TXN-20260511-00727,CUST4370,Health,2250.91,5,paypal,East,completed,2026-05-11
+TXN-20260511-00296,CUST7579,Electronics,2230.32,5,credit_card,South,processing,2026-05-11
+TXN-20260511-00913,CUST7553,Beauty,2393.32,2,crypto,West,completed,2026-05-11
+TXN-20260511-00536,CUST8445,Beauty,696.71,9,crypto,East,pending,2026-05-11
+TXN-20260511-00438,CUST1782,Health,1586.39,9,credit_card,North,completed,2026-05-11
+TXN-20260511-00931,CUST9534,Electronics,2015.24,3,paypal,North,processing,2026-05-11
+,CUST4422,Automotive,1046.04,9,crypto,South,processing,2026-05-11
+TXN-20260511-00566,CUST5102,Sports,281.41,10,paypal,East,processing,2026-05-11
+TXN-20260511-00565,CUST3086,Toys,832.46,1,credit_card,North,refunded,2026-05-11
+TXN-20260511-00249,CUST9239,Health,1747.99,6,paypal,Central,pending,2026-05-11
+TXN-20260511-00503,CUST5837,Electronics,372.46,7,paypal,West,refunded,2026-05-11
+TXN-20260511-00236,CUST2378,Groceries,1082.29,8,debit_card,East,processing,2026-05-11
+TXN-20260511-00116,CUST7163,Sports,,9,bank_transfer,East,refunded,2026-05-11
+TXN-20260511-00143,CUST9385,Sports,970.59,3,crypto,West,refunded,2026-05-11
+TXN-20260511-00755,CUST3878,Sports,2353.87,5,crypto,North,completed,2026-05-11
+,CUST2948,Automotive,2086.25,9,paypal,Central,refunded,2026-05-11
+,CUST5987,Groceries,1117.17,5,paypal,West,completed,2026-05-11
+TXN-20260511-00102,CUST5406,Automotive,2345.86,6,credit_card,North,processing,2026-05-11
+,CUST8648,Sports,197.62,6,paypal,East,pending,2026-05-11
+TXN-20260511-00003,CUST9245,Books,60.85,1,bank_transfer,Central,refunded,2026-05-11
+TXN-20260511-00568,CUST7023,Groceries,1169.08,6,credit_card,South,refunded,2026-05-11
+TXN-20260511-00576,CUST2639,Toys,2010.07,2,credit_card,Central,pending,2026-05-11
+TXN-20260511-00204,CUST2227,Groceries,803.48,2,debit_card,North,pending,2026-05-11
+TXN-20260511-00577,CUST8867,Clothing,,4,credit_card,South,completed,2026-05-11
+TXN-20260511-00393,CUST5225,Sports,2384.59,8,debit_card,East,refunded,2026-05-11
+TXN-20260511-00162,CUST9573,Health,1934.47,6,bank_transfer,West,pending,2026-05-11
+TXN-20260511-00600,CUST6593,Toys,1585.76,6,credit_card,South,completed,2026-05-11
+TXN-20260511-00829,CUST9224,Health,597.17,7,paypal,North,refunded,2026-05-11
+TXN-20260511-00146,CUST2650,Home & Garden,1944.23,6,crypto,West,refunded,2026-05-11
+TXN-20260511-00003,CUST9391,Clothing,2052.76,9,debit_card,North,refunded,2026-05-11
+TXN-20260511-00452,CUST4410,Toys,1988.93,6,paypal,North,processing,2026-05-11
+TXN-20260511-00229,CUST5381,Toys,310.41,6,paypal,North,processing,2026-05-11
+TXN-20260511-00563,CUST7888,Toys,42.5,3,paypal,East,refunded,2026-05-11
+TXN-20260511-00822,CUST2269,Sports,948.09,8,bank_transfer,Central,completed,2026-05-11
+TXN-20260511-00003,CUST2144,Groceries,503.84,1,crypto,East,refunded,2026-05-11
+TXN-20260511-00964,CUST2174,Electronics,181.65,3,paypal,West,completed,2026-05-11
+TXN-20260511-00225,CUST1247,Toys,1450.11,6,crypto,South,completed,2026-05-11
+TXN-20260511-00197,CUST2440,Home & Garden,1578.21,9,paypal,Central,completed,2026-05-11
+,CUST3253,Health,1802.18,1,crypto,West,pending,2026-05-11
+TXN-20260511-00337,CUST8539,Clothing,721.27,8,crypto,North,processing,2026-05-11
+TXN-20260511-00774,CUST4326,Home & Garden,1159.1,5,bank_transfer,North,pending,2026-05-11
+TXN-20260511-00427,CUST8972,Electronics,,2,bank_transfer,East,processing,2026-05-11
+TXN-20260511-00884,CUST3771,Sports,1002.3,4,bank_transfer,Central,processing,2026-05-11
+,CUST9339,Electronics,1828.22,9,debit_card,East,refunded,2026-05-11
