@@ -1,0 +1,6 @@
+date_id,full_date,day_of_week,month,quarter,year,is_weekend
+D001,2024-01-15,Monday,January,Q1,2024,false
+D002,2024-02-20,Tuesday,February,Q1,2024,false
+D003,2024-03-30,Saturday,March,Q1,2024,true
+D004,2024-07-10,Wednesday,July,Q3,2024,false
+D005,2024-11-05,Tuesday,November,Q4,2024,false

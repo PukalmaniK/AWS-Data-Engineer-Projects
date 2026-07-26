@@ -1,0 +1,6 @@
+customer_id,customer_name,city,state,country,customer_segment
+C001,Alice Johnson,New York,NY,USA,Retail
+C002,Bob Smith,Los Angeles,CA,USA,Wholesale
+C003,Carol White,Chicago,IL,USA,Retail
+C004,David Brown,Houston,TX,USA,Corporate
+C005,Eva Martinez,Phoenix,AZ,USA,Retail

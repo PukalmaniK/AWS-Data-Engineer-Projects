@@ -1,0 +1,11 @@
+sale_id,customer_id,product_id,date_id,quantity_sold,unit_price,total_amount,store_region
+S0001,C001,P001,D001,2,29.99,59.98,us-east
+S0002,C002,P002,D002,1,499.00,499.00,us-west
+S0003,C003,P003,D003,10,3.50,35.00,us-central
+S0004,C004,P004,D004,3,45.00,135.00,us-south
+S0005,C005,P005,D005,1,799.00,799.00,us-west
+S0006,C001,P003,D001,5,3.50,17.50,us-east
+S0007,C002,P001,D004,2,29.99,59.98,us-west
+S0008,C003,P004,D002,1,45.00,45.00,us-central
+S0009,C004,P002,D005,1,499.00,499.00,us-south
+S0010,C005,P001,D003,4,29.99,119.96,us-west
