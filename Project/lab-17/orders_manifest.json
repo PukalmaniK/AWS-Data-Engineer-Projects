@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "url": "s3://redshift-warehouse-<your-unique-id>/warehouse/orders/orders_part1.csv",
+      "mandatory": true
+    },
+    {
+      "url": "s3://redshift-warehouse-<your-unique-id>/warehouse/orders/orders_part2.csv",
+      "mandatory": true
+    }
+  ]
+}
