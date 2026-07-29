@@ -1,0 +1,121 @@
+customer_id,full_name,email,phone,city,state,customer_tier,lifetime_value,record_ts,is_active
+C0007,Olivia Wilson,olivia.wilson@work.org,400-533-8782,Orlando,FL,SILVER,3074.86,2022-06-01 08:00:00,true
+,Aaron Williams,aaron.williams@work.org,564-887-9239,Chattanooga,TN,GOLD,635.18,2023-01-21 14:01:01,true
+C0079,Iris Brown,iris.brown@company.com,711-439-3395,Colorado Springs,CO,GOLD,8613.67,2023-01-02 15:24:07,false
+C0001,Grace Jones,grace.jones@work.org,509-961-2305,Dallas,TX,GOLD,930.67,2024-05-29 16:16:36,false
+C0046,Olivia Thomas,olivia.thomas@work.org,214-592-4190,Naperville,IL,PLATINUM,1386.37,2023-05-02 20:39:17,false
+C0080,Sam Brown,sam.brown@yahoo.com,233-299-2654,Atlanta,GA,GOLD,8444.11,2023-05-25 12:16:53,true
+C0061,Grace Anderson,grace.anderson@work.org,773-599-9338,Reno,NV,SILVER,2102.97,2023-07-23 18:56:16,false
+C0024,Tina Brown,tina.brown@yahoo.com,534-107-8347,Toledo,OH,SILVER,6318.12,2023-03-25 12:24:14,false
+C0006,Paul Brown,paul.brown@hotmail.com,873-180-5166,Las Vegas,NV,GOLD,3017.59,2023-07-29 14:17:07,true
+C0003,Noah Miller,noah.miller@gmail.com,719-618-6346,Durham,NC,BRONZE,8795.32,2022-06-01 08:00:00,true
+C0025,Aaron Williams,aaron.williams@company.com,435-781-1288,Las Vegas,NV,GOLD,77.91,2024-04-02 23:07:38,false
+C0078,Noah Williams,noah.williams@outlook.com,930-323-5132,Scottsdale,AZ,SILVER,7507.74,2023-04-30 13:42:18,false
+C0021,Diana Jackson,diana.jackson@work.org,228-977-4061,Memphis,TN,GOLD,4857.04,2023-09-28 07:07:12,false
+C0038,Henry Anderson,henry.anderson@work.org,374-353-7961,Nashville,TN,SILVER,7945.36,2023-09-26 06:33:30,true
+C0031,Mia Brown,mia.brown@company.com,864-405-5188,Seattle,WA,GOLD,5300.45,2023-09-30 01:25:23,true
+C0059,Beth Garcia,beth.garcia@hotmail.com,297-326-1427,Durham,NC,SILVER,6766.94,2024-05-29 11:38:09,false
+C0095,Sam Taylor,sam.taylor@work.org,475-161-3477,Orlando,FL,GOLD,-177.88,2024-03-10 00:31:11,false
+C0035,Olivia Johnson,olivia.johnson@hotmail.com,497-563-8853,Denver,CO,SILVER,1274.49,2023-06-04 10:55:28,true
+C0092,Zoe Martin,zoe.martin@outlook.com,478-108-4432,Augusta,GA,STANDARD,5737.68,2023-10-05 04:19:30,true
+C0002,Mia Jackson,mia.jackson@company.com,615-425-8026,Charlotte,NC,GOLD,458.21,2023-06-29 02:54:42,true
+C0020,Zoe White,zoe.white@work.org,316-173-2021,Chicago,IL,BRONZE,4753.11,2023-08-15 15:20:55,true
+C0096,Victor Taylor,victor.taylor@work.org,357-372-5684,Mesa,AZ,GOLD,-159.42,2023-06-12 03:19:10,false
+C0019,Wendy Harris,wendy.harris@outlook.com,228-181-7252,Portland,OR,SILVER,8065.85,2023-11-04 22:07:35,true
+C0045,Aaron Johnson,aaron.johnson@company.com,480-748-4601,Worcester,MA,BRONZE,8434.19,2023-03-11 12:15:46,true
+C0062,Bob Thomas,bob.thomas@outlook.com,624-175-2368,Bend,OR,SILVER,9390.66,2023-03-17 05:04:24,false
+C0054,Alice Brown,alice.brown@yahoo.com,540-163-8708,Cleveland,OH,GOLD,5517.52,2024-06-26 12:43:37,true
+C0015,Zoe Wilson,zoe.wilson@work.org,919-472-1799,Boston,MA,PLATINUM,5426.3,2023-07-08 00:14:09,true
+C0069,Noah Johnson,noah.johnson@hotmail.com,386-758-3022,Cleveland,OH,PLATINUM,768.6,2024-05-09 12:13:08,true
+C0014,Aaron Anderson,aaron.anderson@gmail.com,257-958-3234,Carson City,NV,SILVER,299.5,2024-02-21 04:55:22,true
+C0070,Jack Martin,jack.martin@yahoo.com,348-263-4793,Columbus,GA,PLATINUM,2734.12,2024-06-20 14:55:31,false
+C0049,Paul Harris,paul.harris@outlook.com,305-902-4637,Bend,OR,BRONZE,7042.22,2023-10-22 09:46:33,false
+,Aaron Johnson,aaron.johnson@yahoo.com,749-383-3601,Carson City,NV,GOLD,2722.47,2023-05-08 07:14:45,false
+C0018,Tina Johnson,tina.johnson@work.org,915-409-2178,Worcester,MA,SILVER,8667.01,2023-03-13 21:37:53,false
+C0097,Aaron Jones,aaron.jones@work.org,574-633-4375,Bend,OR,SILVER,-335.14,2024-04-23 12:56:42,false
+C0072,Quinn Johnson,quinn.johnson@outlook.com,751-592-9556,Austin,TX,BRONZE,8404.25,2024-02-29 05:00:39,true
+C0033,Rose Williams,rose.williams@yahoo.com,620-236-5108,Bend,OR,GOLD,3267.4,2024-04-04 16:38:05,false
+C0047,Olivia Williams,olivia.williams@gmail.com,992-888-9866,San Diego,CA,SILVER,5467.99,2024-01-13 15:40:26,true
+C0099,Iris Brown,iris.brown@company.com,569-631-1952,Albany,NY,BRONZE,-498.74,2024-05-06 18:22:33,false
+,Diana Thomas,diana.thomas@gmail.com,495-294-3422,San Diego,CA,GOLD,5204.6,2024-01-10 13:49:54,false
+C0008,Mia White,mia.white@hotmail.com,804-278-5534,Miami,FL,SILVER,8000.18,2023-10-03 23:00:27,false
+C0017,Quinn Wilson,quinn.wilson@company.com,907-164-7510,Greensboro,NC,BRONZE,3217.55,2023-04-05 09:48:55,true
+C0030,Noah Jackson,noah.jackson@company.com,983-982-5303,Tampa,FL,PLATINUM,7681.34,2023-11-25 17:11:14,true
+C0005,Tina Johnson,tina.johnson@yahoo.com,212-201-6767,Worcester,MA,BRONZE,8606.68,2022-06-01 08:00:00,true
+C0004,Yara Garcia,yara.garcia@gmail.com,424-485-8653,Nashville,TN,GOLD,9591.96,2022-06-01 08:00:00,false
+C0039,Zoe White,zoe.white@outlook.com,591-442-5536,Worcester,MA,PLATINUM,3111.81,2023-05-04 04:16:08,true
+C0042,Henry Wilson,henry.wilson@work.org,389-217-7445,Buffalo,NY,BRONZE,6945.22,2023-12-13 14:28:08,true
+,Carol Wilson,carol.wilson@hotmail.com,532-857-1002,Phoenix,AZ,BRONZE,692.9,2023-06-08 16:37:59,false
+C0093,Eve Anderson,eve.anderson@outlook.com,284-627-5175,Aurora,IL,SILVER,-160.73,2023-01-24 18:45:19,true
+C0012,Wendy Johnson,wendy.johnson@yahoo.com,842-710-9588,Portland,OR,PLATINUM,7638.78,2022-06-01 08:00:00,true
+C0011,Xander Jackson,xander.jackson@yahoo.com,200-716-9145,Atlanta,GA,GOLD,6579.17,2022-06-01 08:00:00,true
+C0050,David Jackson,david.jackson@yahoo.com,588-335-5279,Cincinnati,OH,SILVER,6374.65,2023-05-07 07:27:11,true
+C0056,Chris Martin,chris.martin@hotmail.com,985-790-7866,Tampa,FL,SILVER,7383.11,2023-12-20 04:53:07,false
+C0088,Liam Johnson,liam.johnson@gmail.com,586-807-5076,Tampa,FL,  gold  ,6254.46,2024-01-16 11:17:31,true
+C0028,Diana Smith,diana.smith@hotmail.com,482-191-3343,Bellevue,WA,GOLD,2979.07,2023-04-21 07:10:53,true
+C0089,Rose Martin,rose.martin@work.org,709-956-4885,Savannah,GA,unknown,402.56,2024-04-29 14:24:55,false
+C0029,Alice Brown,alice.brown@hotmail.com,732-236-7399,Bellevue,WA,SILVER,7556.39,2023-12-12 22:25:04,false
+C0060,Carol Wilson,carol.wilson@hotmail.com,360-716-2386,Rochester,NY,BRONZE,9073.29,2024-01-31 05:23:41,false
+C0016,Olivia Williams,olivia.williams@gmail.com,564-538-1227,Greensboro,NC,SILVER,2641.32,2023-04-16 11:59:29,false
+C0077,Zoe Thomas,zoe.thomas@gmail.com,764-779-8351,Columbus,OH,SILVER,8070.52,2024-01-09 05:06:53,false
+C0023,Diana Harris,diana.harris@outlook.com,473-701-5327,Cambridge,MA,BRONZE,6621.45,2023-06-29 02:28:23,true
+C0027,Carol Smith,carol.smith@outlook.com,963-503-9358,Raleigh,NC,BRONZE,9735.94,2023-08-31 15:20:31,false
+C0006,Iris Brown,iris.brown@outlook.com,996-707-3637,Reno,NV,PLATINUM,6503.66,2022-06-01 08:00:00,true
+C0034,Yara Harris,yara.harris@outlook.com,635-507-5744,Chattanooga,TN,GOLD,802.42,2024-02-11 07:49:08,true
+C0090,Grace Martin,grace.martin@yahoo.com,484-764-8039,San Antonio,TX,unknown,6620.11,2024-04-10 14:29:04,false
+C0094,Grace Wilson,grace.wilson@hotmail.com,613-479-7291,Atlanta,GA,SILVER,-323.16,2023-07-21 01:40:05,true
+C0009,Karen White,karen.white@work.org,784-344-2787,Cleveland,OH,BRONZE,7439.35,2022-06-01 08:00:00,false
+C0066,Iris Johnson,iris.johnson@yahoo.com,764-520-7972,Tucson,AZ,PLATINUM,2262.56,2024-05-11 01:26:16,false
+C0010,Mia Wilson,mia.wilson@work.org,701-313-5058,Raleigh,NC,SILVER,6823.35,2024-06-26 23:49:34,false
+C0007,Tina White,tina.white@hotmail.com,708-598-2123,San Antonio,TX,GOLD,5509.18,2023-04-07 22:17:18,false
+C0004,Jack Anderson,jack.anderson@gmail.com,309-945-7720,Albany,NY,GOLD,3654.81,2023-06-07 17:38:17,true
+C0044,Olivia Williams,olivia.williams@gmail.com,708-459-3745,Buffalo,NY,BRONZE,7867.62,2023-05-14 09:42:51,true
+C0081,Henry Jackson,henry.jackson@gmail.com,698-626-1922,Springfield,MA,PLATINUM,9953.51,2023-01-03 19:16:33,true
+C0003,Olivia Davis,olivia.davis@gmail.com,587-337-2451,Mesa,AZ,SILVER,2305.08,2023-06-09 10:16:36,false
+C0076,Paul Miller,paul.miller@hotmail.com,301-760-3741,Los Angeles,CA,BRONZE,2284.97,2023-11-19 01:11:28,true
+C0008,Karen Garcia,karen.garcia@yahoo.com,962-189-6296,Bellevue,WA,SILVER,6172.36,2022-06-01 08:00:00,true
+C0087,Quinn Johnson,quinn.johnson@yahoo.com,340-870-3880,Aurora,IL,silver,2733.47,2023-06-16 02:50:08,false
+,Tina Brown,tina.brown@hotmail.com,515-338-2075,Durham,NC,GOLD,3966.9,2024-01-07 19:08:50,false
+,Uma Anderson,uma.anderson@work.org,789-679-8276,Rochester,NY,PLATINUM,7121.41,2023-02-23 14:05:26,true
+C0013,Henry Miller,henry.miller@outlook.com,687-960-9356,Nashville,TN,PLATINUM,4526.88,2022-06-01 08:00:00,true
+C0005,Frank Garcia,frank.garcia@yahoo.com,516-667-3655,Columbus,GA,SILVER,3052.3,2023-04-12 02:52:13,false
+C0086,Mia Johnson,mia.johnson@yahoo.com,261-207-4551,Cambridge,MA,  gold  ,2774.93,2023-06-14 04:23:25,false
+C0011,Sam Martin,sam.martin@gmail.com,919-149-2613,Augusta,GA,SILVER,4826.92,2024-05-14 01:03:12,false
+C0051,Beth Anderson,beth.anderson@outlook.com,535-206-3423,Colorado Springs,CO,BRONZE,84.63,2023-11-28 08:34:24,true
+C0073,Carol White,carol.white@gmail.com,958-473-2540,Tacoma,WA,SILVER,413.69,2024-01-11 15:41:59,true
+C0009,Wendy Thomas,wendy.thomas@company.com,855-103-1582,Naperville,IL,SILVER,4914.67,2023-12-31 03:10:11,false
+,Mia Garcia,mia.garcia@gmail.com,927-943-2016,Houston,TX,SILVER,1690.77,2024-05-17 20:44:30,false
+C0068,Henry Harris,henry.harris@hotmail.com,296-962-4488,Durham,NC,SILVER,557.56,2024-01-21 19:42:54,true
+C0013,Yara Miller,yara.miller@hotmail.com,226-471-8183,Scottsdale,AZ,BRONZE,4291.05,2023-11-28 17:28:09,false
+C0041,Mia Miller,mia.miller@work.org,531-745-5991,Raleigh,NC,GOLD,9850.62,2023-05-17 10:58:24,true
+C0063,Liam Martin,liam.martin@work.org,836-941-2397,Rockford,IL,SILVER,2685.62,2023-06-01 23:56:09,false
+C0043,Yara Johnson,yara.johnson@yahoo.com,486-322-7080,Carson City,NV,PLATINUM,943.88,2023-03-27 07:21:39,true
+C0026,Karen Miller,karen.miller@yahoo.com,446-664-4285,San Diego,CA,PLATINUM,5508.79,2024-02-03 15:28:26,false
+C0040,Karen Thomas,karen.thomas@hotmail.com,233-281-5751,Rockford,IL,PLATINUM,6934.75,2023-07-13 11:08:43,true
+C0064,Grace Davis,grace.davis@yahoo.com,390-346-7316,San Diego,CA,SILVER,3740.01,2023-02-22 22:39:02,true
+C0037,Wendy Miller,wendy.miller@hotmail.com,554-416-2627,Springfield,MA,SILVER,2517.0,2023-09-11 23:50:31,false
+,Rose Davis,rose.davis@yahoo.com,808-406-4033,Austin,TX,SILVER,1616.55,2023-02-20 21:31:51,false
+C0084,Paul Harris,paul.harris@gmail.com,976-916-6050,Chattanooga,TN,vip,499.74,2023-06-01 07:46:57,false
+C0057,Uma Miller,uma.miller@yahoo.com,505-771-6510,Reno,NV,GOLD,4620.04,2023-01-09 13:40:46,false
+C0002,Bob Williams,bob.williams@gmail.com,711-523-4742,Fort Collins,CO,PLATINUM,2968.75,2022-06-01 08:00:00,false
+C0065,Liam Miller,liam.miller@work.org,760-347-4301,Fort Collins,CO,SILVER,9489.19,2023-11-13 11:56:09,true
+C0036,Uma Williams,uma.williams@yahoo.com,462-811-4578,Scottsdale,AZ,SILVER,5801.64,2024-04-14 04:54:36,false
+C0001,Eve Thomas,eve.thomas@work.org,644-483-6957,Scottsdale,AZ,SILVER,6866.32,2022-06-01 08:00:00,true
+C0071,Carol Thomas,carol.thomas@yahoo.com,934-582-2599,Mesa,AZ,PLATINUM,7965.66,2024-06-25 11:34:20,true
+C0032,Victor Taylor,victor.taylor@outlook.com,961-451-4844,Worcester,MA,GOLD,3545.3,2024-02-11 13:57:06,true
+C0058,Frank Miller,frank.miller@yahoo.com,871-491-5798,Phoenix,AZ,BRONZE,5364.97,2023-07-31 12:04:23,true
+C0074,Frank Harris,frank.harris@hotmail.com,749-954-2255,New York,NY,GOLD,3674.25,2023-12-29 11:53:13,true
+C0091,Grace Harris,grace.harris@company.com,743-701-4481,Columbus,OH,unknown,1636.76,2023-12-20 11:14:41,false
+C0053,Sam Smith,sam.smith@hotmail.com,322-522-6922,Aurora,IL,PLATINUM,2382.74,2024-02-20 15:37:38,false
+C0012,Noah Miller,noah.miller@outlook.com,410-913-9425,Houston,TX,SILVER,4725.87,2024-03-15 16:52:27,false
+C0048,Henry Wilson,henry.wilson@hotmail.com,305-793-7200,Henderson,NV,BRONZE,884.79,2024-01-19 11:18:29,true
+C0010,Eve Garcia,eve.garcia@work.org,616-400-9970,Scottsdale,AZ,GOLD,7148.9,2022-06-01 08:00:00,true
+C0098,Yara Jackson,yara.jackson@work.org,246-807-3446,Portland,OR,SILVER,-359.44,2024-03-27 09:35:05,true
+C0055,Aaron Anderson,aaron.anderson@outlook.com,527-900-1867,Columbus,OH,SILVER,1581.54,2024-05-16 04:22:06,false
+C0085,Uma Johnson,uma.johnson@work.org,541-949-1108,Bend,OR,vip,3155.33,2023-11-09 00:47:58,false
+C0022,Yara Jones,yara.jones@outlook.com,941-583-9673,San Diego,CA,BRONZE,6277.28,2024-03-15 16:54:39,false
+C0067,Bob Jones,bob.jones@gmail.com,968-284-7725,Fort Collins,CO,PLATINUM,1287.72,2023-06-30 03:00:10,false
+C0075,Quinn Brown,quinn.brown@outlook.com,878-636-9241,Portland,OR,SILVER,8971.91,2023-03-30 03:48:11,false
+C0083,Jack Taylor,jack.taylor@work.org,494-270-8884,Rochester,NY,STANDARD,4834.53,2023-09-29 10:54:28,false
+C0082,David White,david.white@yahoo.com,957-953-4522,Mesa,AZ,silver,2257.81,2023-01-04 15:13:26,true
+C0052,Sam Garcia,sam.garcia@outlook.com,682-951-1083,Eugene,OR,GOLD,1986.44,2023-09-05 21:52:22,true
